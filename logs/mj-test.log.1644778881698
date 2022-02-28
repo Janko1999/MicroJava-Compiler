@@ -1,0 +1,101 @@
+INFO  20:01:01,676 - Compiling source file: D:\ETF\sedmiSemestar\PP1\Jflex\Izvorni kod\MJCompiler\test\test301.mj
+INFO  20:01:01,708 - #2 program
+INFO  20:01:01,708 - #5 test302
+INFO  20:01:01,708 - #5 Test
+INFO  20:01:01,709 - #5 t1
+INFO  20:01:01,712 - #8 ,
+INFO  20:01:01,713 - #5 t2
+INFO  20:01:01,713 - #18 ;
+INFO  20:01:01,713 - #16 {
+INFO  20:01:01,713 - #20 void
+INFO  20:01:01,714 - #5 main
+INFO  20:01:01,714 - #3 (
+INFO  20:01:01,715 - #4 )
+INFO  20:01:01,715 - #16 {
+INFO  20:01:01,716 - #28 print
+INFO  20:01:01,716 - #3 (
+INFO  20:01:01,716 - #5 ord
+INFO  20:01:01,716 - #3 (
+INFO  20:01:01,716 - #6 A
+INFO  20:01:01,716 - #4 )
+INFO  20:01:01,717 - #4 )
+INFO  20:01:01,717 - #18 ;
+INFO  20:01:01,717 - #17 }
+INFO  20:01:01,718 - #17 }
+INFO  20:01:01,723 - Program(
+  ProgName(
+   test302
+  ) [ProgName]
+  VarDeclarationss(
+    NoDeclaraions(
+    ) [NoDeclaraions]
+    Variables(
+      VarDeclType(
+        Type(
+         Test
+        ) [Type]
+      ) [VarDeclType]
+      MoreVariables(
+        OneVariable(
+          Var(
+           t1
+          ) [Var]
+        ) [OneVariable]
+        Var(
+         t2
+        ) [Var]
+      ) [MoreVariables]
+    ) [Variables]
+  ) [VarDeclarationss]
+  Methods(
+    NoMethod(
+    ) [NoMethod]
+    VoidMethod(
+      VoidTypeName(
+       main
+      ) [VoidTypeName]
+      NoFormalPar(
+      ) [NoFormalPar]
+      NoVar(
+      ) [NoVar]
+      MoreStatements(
+        NoStatement(
+        ) [NoStatement]
+        NoLabelStmt(
+          PrintStmt(
+            PositiveExpr(
+              OneTerm(
+                OneFactor(
+                  DesignatorParsFactor(
+                    OneIdent(
+                     ord
+                    ) [OneIdent]
+                    OneActPars(
+                      PositiveExpr(
+                        OneTerm(
+                          OneFactor(
+                            CharConstFactor(
+                             A
+                            ) [CharConstFactor]
+                          ) [OneFactor]
+                        ) [OneTerm]
+                      ) [PositiveExpr]
+                    ) [OneActPars]
+                  ) [DesignatorParsFactor]
+                ) [OneFactor]
+              ) [OneTerm]
+            ) [PositiveExpr]
+          ) [PrintStmt]
+        ) [NoLabelStmt]
+      ) [MoreStatements]
+    ) [VoidMethod]
+  ) [Methods]
+) [Program]
+INFO  20:01:01,723 - ===================================
+ERROR 20:01:01,726 - Nije pronadjen tip Test u tabeli simbola! 
+INFO  20:01:01,727 - Obradjuje se funkcija main na liniji 12
+INFO  20:01:01,727 - Pronadjen poziv funkcije ord na liniji 14
+INFO  20:01:01,727 -  Print count calls = 0
+INFO  20:01:01,727 -  Deklarisanih promenljivih ima = 2
+INFO  20:01:01,727 - ===================================
+ERROR 20:01:01,728 - Parsiranje NIJE uspesno zavrseno!

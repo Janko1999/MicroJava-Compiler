@@ -1,0 +1,123 @@
+INFO  19:54:41,345 - #2 program
+INFO  19:54:41,346 - #5 p
+INFO  19:54:41,346 - #7 const
+INFO  19:54:41,347 - #5 int
+INFO  19:54:41,347 - #5 size
+INFO  19:54:41,348 - #10 =
+INFO  19:54:41,348 - #11 10
+INFO  19:54:41,348 - #18 ;
+INFO  19:54:41,348 - #19 record
+INFO  19:54:41,349 - #5 Board
+INFO  19:54:41,349 - #16 {
+INFO  19:54:41,349 - #5 int
+INFO  19:54:41,349 - #5 rows
+INFO  19:54:41,350 - #12 [
+INFO  19:54:41,350 - #13 ]
+INFO  19:54:41,350 - #18 ;
+INFO  19:54:41,350 - #5 int
+INFO  19:54:41,351 - #5 columns
+INFO  19:54:41,351 - #12 [
+INFO  19:54:41,351 - #13 ]
+INFO  19:54:41,351 - #18 ;
+INFO  19:54:41,351 - #5 int
+INFO  19:54:41,351 - #5 size
+INFO  19:54:41,351 - #18 ;
+INFO  19:54:41,351 - #17 }
+INFO  19:54:41,352 - #5 Board
+INFO  19:54:41,352 - #5 board
+INFO  19:54:41,352 - #18 ;
+INFO  19:54:41,352 - #5 int
+INFO  19:54:41,353 - #18 ;
+ERROR 19:54:41,353 - 
+Sintaksna greska na liniji 12
+INFO  19:54:41,353 - #16 {
+INFO  19:54:41,353 - #20 void
+INFO  19:54:41,353 - #5 f
+ERROR 19:54:41,353 - Izvrsen oporavak od greske usled deklaracije globalnih promenljivih do ; na liniji 8
+INFO  19:54:41,354 - #3 (
+INFO  19:54:41,355 - #5 char
+INFO  19:54:41,355 - #5 ch
+INFO  19:54:41,355 - #8 ,
+INFO  19:54:41,355 - #5 int
+INFO  19:54:41,356 - #5 arg
+INFO  19:54:41,356 - #8 ,
+INFO  19:54:41,356 - #5 int
+INFO  19:54:41,356 - #5 a
+INFO  19:54:41,356 - #4 )
+INFO  19:54:41,356 - #5 int
+INFO  19:54:41,356 - #5 x
+INFO  19:54:41,356 - #18 ;
+INFO  19:54:41,356 - #16 {
+INFO  19:54:41,356 - #5 x
+INFO  19:54:41,357 - #10 =
+INFO  19:54:41,357 - #5 arg
+INFO  19:54:41,358 - #18 ;
+INFO  19:54:41,359 - #17 }
+INFO  19:54:41,359 - #20 void
+INFO  19:54:41,359 - #5 main
+INFO  19:54:41,360 - #3 (
+INFO  19:54:41,360 - #4 )
+INFO  19:54:41,360 - #5 int
+INFO  19:54:41,360 - #5 x
+INFO  19:54:41,360 - #8 ,
+INFO  19:54:41,360 - #5 i
+INFO  19:54:41,360 - #18 ;
+INFO  19:54:41,361 - #5 char
+INFO  19:54:41,361 - #5 c
+INFO  19:54:41,361 - #18 ;
+INFO  19:54:41,361 - #16 {
+INFO  19:54:41,361 - #5 board
+INFO  19:54:41,361 - #10 =
+INFO  19:54:41,361 - #39 new
+INFO  19:54:41,361 - #5 Board
+INFO  19:54:41,361 - #18 ;
+INFO  19:54:41,361 - #5 board
+INFO  19:54:41,361 - #40 .
+INFO  19:54:41,362 - #5 rows
+INFO  19:54:41,362 - #10 =
+INFO  19:54:41,362 - #39 new
+INFO  19:54:41,362 - #5 int
+INFO  19:54:41,362 - #12 [
+INFO  19:54:41,362 - #11 5
+INFO  19:54:41,362 - #13 ]
+INFO  19:54:41,363 - #18 ;
+INFO  19:54:41,363 - #5 board
+INFO  19:54:41,363 - #40 .
+INFO  19:54:41,363 - #5 size
+INFO  19:54:41,363 - #10 =
+INFO  19:54:41,363 - #18 ;
+ERROR 19:54:41,363 - 
+Sintaksna greska na liniji 25
+INFO  19:54:41,363 - #47 if
+INFO  19:54:41,363 - #3 (
+INFO  19:54:41,363 - #5 board
+ERROR 19:54:41,363 - Izvrsen oporavak do ; u liniji 25
+INFO  19:54:41,364 - #40 .
+INFO  19:54:41,364 - #5 rows
+INFO  19:54:41,364 - #12 [
+INFO  19:54:41,364 - #11 0
+INFO  19:54:41,365 - #13 ]
+INFO  19:54:41,365 - #46 !=
+INFO  19:54:41,365 - #4 )
+ERROR 19:54:41,365 - 
+Sintaksna greska na liniji 26
+INFO  19:54:41,365 - #16 {
+INFO  19:54:41,366 - #28 print
+INFO  19:54:41,366 - #3 (
+ERROR 19:54:41,366 - Izvrsen oporavak do ) u liniji 26
+INFO  19:54:41,366 - #11 1
+INFO  19:54:41,366 - #4 )
+INFO  19:54:41,366 - #18 ;
+INFO  19:54:41,367 - #17 }
+INFO  19:54:41,367 - #17 }
+INFO  19:54:41,367 - #17 }
+INFO  19:54:41,383 - Obradjuje se funkcija f na liniji 15
+INFO  19:54:41,383 - Deklarisana lokalna promenljiva x na liniji 16
+INFO  19:54:41,383 - Obradjuje se funkcija main na liniji 20
+INFO  19:54:41,383 - Deklarisana lokalna promenljiva x na liniji 20
+INFO  19:54:41,384 - Deklarisana lokalna promenljiva i na liniji 20
+INFO  19:54:41,384 - Deklarisana lokalna promenljiva c na liniji 20
+ERROR 19:54:41,384 - Greska na liniji 23 : ime board nije deklarisano! 
+ERROR 19:54:41,384 - Nije pronadjen tip Board u tabeli simbola! 
+ERROR 19:54:41,384 - Greska na liniji 23 : promenljiva se moze inicijalizovati samo klasnim tipom.
+ERROR 19:54:41,384 - Greska na liniji 24 : ime board nije klasnog tipa! 

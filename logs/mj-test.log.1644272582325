@@ -1,0 +1,169 @@
+INFO  23:11:05,673 - Compiling source file: D:\ETF\sedmiSemestar\PP1\Jflex\Izvorni kod\MJCompiler\test\program.mj
+INFO  23:11:05,711 - #2 program
+INFO  23:11:05,711 - #5 MJProgram
+INFO  23:11:05,711 - #5 int
+INFO  23:11:05,712 - #5 x
+INFO  23:11:05,713 - #18 ;
+INFO  23:11:05,714 - #16 {
+INFO  23:11:05,714 - #5 int
+INFO  23:11:05,715 - #5 k
+INFO  23:11:05,715 - #3 (
+INFO  23:11:05,715 - #4 )
+INFO  23:11:05,715 - #5 int
+INFO  23:11:05,716 - #5 c
+INFO  23:11:05,716 - #18 ;
+INFO  23:11:05,716 - #16 {
+INFO  23:11:05,716 - #26 return
+INFO  23:11:05,717 - #5 c
+INFO  23:11:05,717 - #35 +
+INFO  23:11:05,717 - #11 2
+INFO  23:11:05,718 - #18 ;
+INFO  23:11:05,718 - #17 }
+INFO  23:11:05,718 - #5 int
+INFO  23:11:05,719 - #5 main
+INFO  23:11:05,721 - #3 (
+INFO  23:11:05,721 - #4 )
+INFO  23:11:05,721 - #16 {
+INFO  23:11:05,721 - #28 print
+INFO  23:11:05,721 - #3 (
+INFO  23:11:05,721 - #11 1
+INFO  23:11:05,721 - #4 )
+INFO  23:11:05,721 - #18 ;
+INFO  23:11:05,721 - #26 return
+INFO  23:11:05,721 - #11 1
+INFO  23:11:05,721 - #18 ;
+INFO  23:11:05,721 - #17 }
+INFO  23:11:05,721 - #17 }
+INFO  23:11:05,727 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  VarDeclarationss(
+    NoDeclaraions(
+    ) [NoDeclaraions]
+    Variables(
+      VarDeclType(
+        Type(
+         int
+        ) [Type]
+      ) [VarDeclType]
+      OneVariable(
+        Var(
+         x
+        ) [Var]
+      ) [OneVariable]
+    ) [Variables]
+  ) [VarDeclarationss]
+  Methods(
+    Methods(
+      NoMethod(
+      ) [NoMethod]
+      RegularMethod(
+        MethodTypeName(
+          Type(
+           int
+          ) [Type]
+         k
+        ) [MethodTypeName]
+        NoFormalPar(
+        ) [NoFormalPar]
+        Vars(
+          NoVar(
+          ) [NoVar]
+          Variables(
+            VarDeclType(
+              Type(
+               int
+              ) [Type]
+            ) [VarDeclType]
+            OneVariable(
+              Var(
+               c
+              ) [Var]
+            ) [OneVariable]
+          ) [Variables]
+        ) [Vars]
+        MoreStatements(
+          NoStatement(
+          ) [NoStatement]
+          NoLabelStmt(
+            ReturnExprStmt(
+              PositiveExpr(
+                Terms(
+                  OneTerm(
+                    OneFactor(
+                      DesignatorFactor(
+                        OneIdent(
+                         c
+                        ) [OneIdent]
+                      ) [DesignatorFactor]
+                    ) [OneFactor]
+                  ) [OneTerm]
+                  PlusOp(
+                  ) [PlusOp]
+                  OneFactor(
+                    NumConstFactor(
+                     2
+                    ) [NumConstFactor]
+                  ) [OneFactor]
+                ) [Terms]
+              ) [PositiveExpr]
+            ) [ReturnExprStmt]
+          ) [NoLabelStmt]
+        ) [MoreStatements]
+      ) [RegularMethod]
+    ) [Methods]
+    RegularMethod(
+      MethodTypeName(
+        Type(
+         int
+        ) [Type]
+       main
+      ) [MethodTypeName]
+      NoFormalPar(
+      ) [NoFormalPar]
+      NoVar(
+      ) [NoVar]
+      MoreStatements(
+        MoreStatements(
+          NoStatement(
+          ) [NoStatement]
+          NoLabelStmt(
+            PrintStmt(
+              PositiveExpr(
+                OneTerm(
+                  OneFactor(
+                    NumConstFactor(
+                     1
+                    ) [NumConstFactor]
+                  ) [OneFactor]
+                ) [OneTerm]
+              ) [PositiveExpr]
+            ) [PrintStmt]
+          ) [NoLabelStmt]
+        ) [MoreStatements]
+        NoLabelStmt(
+          ReturnExprStmt(
+            PositiveExpr(
+              OneTerm(
+                OneFactor(
+                  NumConstFactor(
+                   1
+                  ) [NumConstFactor]
+                ) [OneFactor]
+              ) [OneTerm]
+            ) [PositiveExpr]
+          ) [ReturnExprStmt]
+        ) [NoLabelStmt]
+      ) [MoreStatements]
+    ) [RegularMethod]
+  ) [Methods]
+) [Program]
+INFO  23:11:05,727 - ===================================
+INFO  23:11:05,729 - Deklarisana promenljiva x na liniji 2
+INFO  23:11:05,730 - Obradjuje se funkcija k na liniji 5
+INFO  23:11:05,730 - Deklarisana promenljiva c na liniji 5
+INFO  23:11:05,730 - Obradjuje se funkcija main na liniji 10
+INFO  23:11:05,730 -  Print count calls = 1
+INFO  23:11:05,730 -  Deklarisanih promenljivih ima = 2
+INFO  23:11:05,731 - ===================================

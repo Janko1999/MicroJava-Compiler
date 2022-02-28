@@ -1,0 +1,117 @@
+INFO  19:53:56,391 - #2 program
+INFO  19:53:56,393 - #5 p
+INFO  19:53:56,394 - #7 const
+INFO  19:53:56,397 - #5 int
+INFO  19:53:56,397 - #5 size
+INFO  19:53:56,398 - #10 =
+INFO  19:53:56,398 - #11 10
+INFO  19:53:56,398 - #18 ;
+INFO  19:53:56,399 - #19 record
+INFO  19:53:56,399 - #5 Board
+INFO  19:53:56,399 - #16 {
+INFO  19:53:56,399 - #5 int
+INFO  19:53:56,400 - #5 rows
+INFO  19:53:56,401 - #12 [
+INFO  19:53:56,401 - #13 ]
+INFO  19:53:56,401 - #18 ;
+INFO  19:53:56,401 - #5 int
+INFO  19:53:56,402 - #5 columns
+INFO  19:53:56,402 - #12 [
+INFO  19:53:56,402 - #13 ]
+INFO  19:53:56,402 - #18 ;
+INFO  19:53:56,402 - #5 int
+INFO  19:53:56,402 - #5 size
+INFO  19:53:56,402 - #18 ;
+INFO  19:53:56,403 - #17 }
+INFO  19:53:56,404 - #5 Board
+INFO  19:53:56,404 - #5 board
+INFO  19:53:56,404 - #18 ;
+INFO  19:53:56,404 - #16 {
+INFO  19:53:56,404 - #20 void
+INFO  19:53:56,405 - #5 f
+INFO  19:53:56,405 - #3 (
+INFO  19:53:56,405 - #5 char
+INFO  19:53:56,406 - #5 ch
+INFO  19:53:56,406 - #8 ,
+INFO  19:53:56,406 - #5 int
+INFO  19:53:56,406 - #5 arg
+INFO  19:53:56,406 - #8 ,
+INFO  19:53:56,406 - #5 int
+INFO  19:53:56,406 - #5 a
+INFO  19:53:56,406 - #4 )
+INFO  19:53:56,406 - #5 int
+INFO  19:53:56,407 - #5 x
+INFO  19:53:56,407 - #18 ;
+INFO  19:53:56,407 - #16 {
+INFO  19:53:56,407 - #5 x
+INFO  19:53:56,408 - #10 =
+INFO  19:53:56,409 - #5 arg
+INFO  19:53:56,412 - #18 ;
+INFO  19:53:56,413 - #17 }
+INFO  19:53:56,413 - #20 void
+INFO  19:53:56,414 - #5 main
+INFO  19:53:56,414 - #3 (
+INFO  19:53:56,414 - #4 )
+INFO  19:53:56,415 - #5 int
+INFO  19:53:56,415 - #5 x
+INFO  19:53:56,415 - #8 ,
+INFO  19:53:56,415 - #5 i
+INFO  19:53:56,415 - #18 ;
+INFO  19:53:56,415 - #5 char
+INFO  19:53:56,416 - #5 c
+INFO  19:53:56,416 - #18 ;
+INFO  19:53:56,416 - #16 {
+INFO  19:53:56,416 - #5 board
+INFO  19:53:56,416 - #10 =
+INFO  19:53:56,416 - #39 new
+INFO  19:53:56,416 - #5 Board
+INFO  19:53:56,416 - #18 ;
+INFO  19:53:56,417 - #5 board
+INFO  19:53:56,417 - #40 .
+INFO  19:53:56,417 - #5 rows
+INFO  19:53:56,418 - #10 =
+INFO  19:53:56,418 - #39 new
+INFO  19:53:56,418 - #5 int
+INFO  19:53:56,418 - #12 [
+INFO  19:53:56,418 - #11 5
+INFO  19:53:56,418 - #13 ]
+INFO  19:53:56,418 - #18 ;
+INFO  19:53:56,419 - #5 board
+INFO  19:53:56,419 - #40 .
+INFO  19:53:56,419 - #5 size
+INFO  19:53:56,419 - #10 =
+INFO  19:53:56,419 - #18 ;
+ERROR 19:53:56,419 - 
+Sintaksna greska na liniji 24
+INFO  19:53:56,419 - #47 if
+INFO  19:53:56,419 - #3 (
+INFO  19:53:56,419 - #5 board
+ERROR 19:53:56,420 - Izvrsen oporavak do ; u liniji 24
+INFO  19:53:56,421 - #40 .
+INFO  19:53:56,421 - #5 rows
+INFO  19:53:56,421 - #12 [
+INFO  19:53:56,422 - #11 0
+INFO  19:53:56,422 - #13 ]
+INFO  19:53:56,423 - #46 !=
+INFO  19:53:56,423 - #4 )
+ERROR 19:53:56,423 - 
+Sintaksna greska na liniji 25
+INFO  19:53:56,423 - #16 {
+INFO  19:53:56,423 - #28 print
+INFO  19:53:56,423 - #3 (
+ERROR 19:53:56,423 - Izvrsen oporavak do ) u liniji 25
+INFO  19:53:56,425 - #11 1
+INFO  19:53:56,425 - #4 )
+INFO  19:53:56,425 - #18 ;
+INFO  19:53:56,425 - #17 }
+INFO  19:53:56,425 - #17 }
+INFO  19:53:56,428 - #17 }
+INFO  19:53:56,445 - Obradjuje se rekord Board na liniji 5
+INFO  19:53:56,445 - Deklarisana globalna promenljiva board na liniji 11
+INFO  19:53:56,445 - Deklarisan rekord board na liniji 11
+INFO  19:53:56,445 - Obradjuje se funkcija f na liniji 14
+INFO  19:53:56,445 - Deklarisana lokalna promenljiva x na liniji 15
+INFO  19:53:56,446 - Obradjuje se funkcija main na liniji 19
+INFO  19:53:56,446 - Deklarisana lokalna promenljiva x na liniji 19
+INFO  19:53:56,446 - Deklarisana lokalna promenljiva i na liniji 19
+INFO  19:53:56,446 - Deklarisana lokalna promenljiva c na liniji 19

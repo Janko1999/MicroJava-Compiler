@@ -1,0 +1,1557 @@
+INFO  21:47:50,368 - Compiling source file: D:\ETF\sedmiSemestar\PP1\Jflex\Izvorni kod\MJCompiler\test\program.mj
+INFO  21:47:50,403 - #2 program
+INFO  21:47:50,403 - #5 p
+INFO  21:47:50,403 - #6 const
+INFO  21:47:50,404 - #5 int
+INFO  21:47:50,404 - #5 size
+INFO  21:47:50,404 - #11 =
+INFO  21:47:50,404 - #10 10
+INFO  21:47:50,404 - #18 ;
+INFO  21:47:50,405 - #14 class
+INFO  21:47:50,405 - #5 Table
+INFO  21:47:50,405 - #16 {
+INFO  21:47:50,405 - #5 int
+INFO  21:47:50,405 - #5 pos
+INFO  21:47:50,406 - #12 [
+INFO  21:47:50,406 - #13 ]
+INFO  21:47:50,406 - #7 ,
+INFO  21:47:50,406 - #5 neg
+INFO  21:47:50,406 - #12 [
+INFO  21:47:50,406 - #13 ]
+INFO  21:47:50,406 - #18 ;
+INFO  21:47:50,406 - #16 {
+INFO  21:47:50,407 - #20 void
+INFO  21:47:50,409 - #5 putp
+INFO  21:47:50,409 - #3 (
+INFO  21:47:50,409 - #5 int
+INFO  21:47:50,409 - #5 a
+INFO  21:47:50,409 - #7 ,
+INFO  21:47:50,409 - #5 int
+INFO  21:47:50,409 - #5 idx
+INFO  21:47:50,409 - #4 )
+INFO  21:47:50,409 - #16 {
+INFO  21:47:50,409 - #51 this
+INFO  21:47:50,410 - #40 .
+INFO  21:47:50,410 - #5 pos
+INFO  21:47:50,410 - #12 [
+INFO  21:47:50,410 - #5 idx
+INFO  21:47:50,410 - #13 ]
+INFO  21:47:50,410 - #11 =
+INFO  21:47:50,411 - #5 a
+INFO  21:47:50,411 - #18 ;
+INFO  21:47:50,412 - #17 }
+INFO  21:47:50,412 - #20 void
+INFO  21:47:50,413 - #5 putn
+INFO  21:47:50,413 - #3 (
+INFO  21:47:50,413 - #5 int
+INFO  21:47:50,413 - #5 a
+INFO  21:47:50,413 - #7 ,
+INFO  21:47:50,413 - #5 int
+INFO  21:47:50,413 - #5 idx
+INFO  21:47:50,413 - #4 )
+INFO  21:47:50,413 - #16 {
+INFO  21:47:50,413 - #51 this
+INFO  21:47:50,413 - #40 .
+INFO  21:47:50,413 - #5 neg
+INFO  21:47:50,413 - #12 [
+INFO  21:47:50,413 - #5 idx
+INFO  21:47:50,413 - #13 ]
+INFO  21:47:50,414 - #11 =
+INFO  21:47:50,414 - #5 a
+INFO  21:47:50,414 - #18 ;
+INFO  21:47:50,414 - #17 }
+INFO  21:47:50,414 - #5 int
+INFO  21:47:50,414 - #5 getp
+INFO  21:47:50,414 - #3 (
+INFO  21:47:50,414 - #5 int
+INFO  21:47:50,414 - #5 idx
+INFO  21:47:50,414 - #4 )
+INFO  21:47:50,415 - #16 {
+INFO  21:47:50,415 - #26 return
+INFO  21:47:50,415 - #5 pos
+INFO  21:47:50,415 - #12 [
+INFO  21:47:50,415 - #5 idx
+INFO  21:47:50,415 - #13 ]
+INFO  21:47:50,415 - #18 ;
+INFO  21:47:50,415 - #17 }
+INFO  21:47:50,415 - #5 int
+INFO  21:47:50,416 - #5 getn
+INFO  21:47:50,416 - #3 (
+INFO  21:47:50,416 - #5 int
+INFO  21:47:50,416 - #5 idx
+INFO  21:47:50,416 - #4 )
+INFO  21:47:50,416 - #16 {
+INFO  21:47:50,416 - #26 return
+INFO  21:47:50,416 - #5 neg
+INFO  21:47:50,416 - #12 [
+INFO  21:47:50,416 - #5 idx
+INFO  21:47:50,416 - #13 ]
+INFO  21:47:50,416 - #18 ;
+INFO  21:47:50,416 - #17 }
+INFO  21:47:50,416 - #17 }
+INFO  21:47:50,417 - #17 }
+INFO  21:47:50,417 - #19 record
+INFO  21:47:50,417 - #5 Board
+INFO  21:47:50,417 - #16 {
+INFO  21:47:50,418 - #5 int
+INFO  21:47:50,418 - #5 rows
+INFO  21:47:50,418 - #7 ,
+INFO  21:47:50,418 - #5 columns
+INFO  21:47:50,418 - #18 ;
+INFO  21:47:50,418 - #17 }
+INFO  21:47:50,418 - #5 Table
+INFO  21:47:50,419 - #5 val
+INFO  21:47:50,419 - #18 ;
+INFO  21:47:50,419 - #5 Board
+INFO  21:47:50,419 - #5 board
+INFO  21:47:50,419 - #18 ;
+INFO  21:47:50,419 - #16 {
+INFO  21:47:50,420 - #20 void
+INFO  21:47:50,420 - #5 f
+INFO  21:47:50,420 - #3 (
+INFO  21:47:50,420 - #5 char
+INFO  21:47:50,420 - #5 ch
+INFO  21:47:50,420 - #7 ,
+INFO  21:47:50,420 - #5 int
+INFO  21:47:50,420 - #5 a
+INFO  21:47:50,420 - #7 ,
+INFO  21:47:50,420 - #5 int
+INFO  21:47:50,420 - #5 arg
+INFO  21:47:50,420 - #4 )
+INFO  21:47:50,420 - #5 int
+INFO  21:47:50,420 - #5 x
+INFO  21:47:50,420 - #18 ;
+INFO  21:47:50,420 - #16 {
+INFO  21:47:50,420 - #5 x
+INFO  21:47:50,421 - #11 =
+INFO  21:47:50,421 - #5 arg
+INFO  21:47:50,421 - #18 ;
+INFO  21:47:50,421 - #17 }
+INFO  21:47:50,421 - #20 void
+INFO  21:47:50,421 - #5 main
+INFO  21:47:50,421 - #3 (
+INFO  21:47:50,421 - #4 )
+INFO  21:47:50,421 - #5 int
+INFO  21:47:50,425 - #5 x
+INFO  21:47:50,425 - #7 ,
+INFO  21:47:50,425 - #5 i
+INFO  21:47:50,425 - #18 ;
+INFO  21:47:50,425 - #5 char
+INFO  21:47:50,425 - #5 c
+INFO  21:47:50,425 - #18 ;
+INFO  21:47:50,425 - #16 {
+INFO  21:47:50,425 - #5 val
+INFO  21:47:50,425 - #11 =
+INFO  21:47:50,425 - #39 new
+INFO  21:47:50,425 - #5 Table
+INFO  21:47:50,425 - #18 ;
+INFO  21:47:50,425 - #5 val
+INFO  21:47:50,425 - #40 .
+INFO  21:47:50,425 - #5 pos
+INFO  21:47:50,425 - #11 =
+INFO  21:47:50,425 - #39 new
+INFO  21:47:50,426 - #5 int
+INFO  21:47:50,426 - #12 [
+INFO  21:47:50,426 - #5 size
+INFO  21:47:50,426 - #13 ]
+INFO  21:47:50,426 - #18 ;
+INFO  21:47:50,426 - #5 val
+INFO  21:47:50,426 - #40 .
+INFO  21:47:50,426 - #5 neg
+INFO  21:47:50,426 - #11 =
+INFO  21:47:50,426 - #39 new
+INFO  21:47:50,426 - #5 int
+INFO  21:47:50,426 - #12 [
+INFO  21:47:50,426 - #5 size
+INFO  21:47:50,426 - #13 ]
+INFO  21:47:50,426 - #18 ;
+INFO  21:47:50,426 - #27 read
+INFO  21:47:50,426 - #3 (
+INFO  21:47:50,426 - #5 x
+INFO  21:47:50,426 - #4 )
+INFO  21:47:50,426 - #18 ;
+INFO  21:47:50,426 - #47 if
+INFO  21:47:50,426 - #3 (
+INFO  21:47:50,426 - #5 x
+INFO  21:47:50,426 - #41 >
+INFO  21:47:50,427 - #10 5
+INFO  21:47:50,427 - #4 )
+INFO  21:47:50,428 - #16 {
+INFO  21:47:50,428 - #29 goto
+INFO  21:47:50,428 - #5 skip
+INFO  21:47:50,428 - #18 ;
+INFO  21:47:50,428 - #17 }
+INFO  21:47:50,428 - #5 i
+INFO  21:47:50,428 - #11 =
+INFO  21:47:50,428 - #10 0
+INFO  21:47:50,428 - #18 ;
+INFO  21:47:50,428 - #22 do
+INFO  21:47:50,428 - #16 {
+INFO  21:47:50,428 - #5 val
+INFO  21:47:50,428 - #40 .
+INFO  21:47:50,428 - #5 putp
+INFO  21:47:50,429 - #3 (
+INFO  21:47:50,429 - #10 0
+INFO  21:47:50,429 - #7 ,
+INFO  21:47:50,429 - #5 i
+INFO  21:47:50,429 - #4 )
+INFO  21:47:50,429 - #18 ;
+INFO  21:47:50,429 - #5 val
+INFO  21:47:50,429 - #40 .
+INFO  21:47:50,429 - #5 putn
+INFO  21:47:50,429 - #3 (
+INFO  21:47:50,429 - #10 0
+INFO  21:47:50,429 - #7 ,
+INFO  21:47:50,429 - #5 i
+INFO  21:47:50,429 - #4 )
+INFO  21:47:50,429 - #18 ;
+INFO  21:47:50,429 - #5 i
+INFO  21:47:50,429 - #30 ++
+INFO  21:47:50,429 - #18 ;
+INFO  21:47:50,429 - #17 }
+INFO  21:47:50,429 - #23 while
+INFO  21:47:50,430 - #3 (
+INFO  21:47:50,430 - #5 i
+INFO  21:47:50,430 - #43 <
+INFO  21:47:50,430 - #5 size
+INFO  21:47:50,430 - #4 )
+INFO  21:47:50,430 - #18 ;
+INFO  21:47:50,430 - #5 skip
+INFO  21:47:50,430 - #21 :
+INFO  21:47:50,430 - #5 f
+INFO  21:47:50,430 - #3 (
+INFO  21:47:50,430 - #5 c
+INFO  21:47:50,430 - #7 ,
+INFO  21:47:50,430 - #5 x
+INFO  21:47:50,430 - #7 ,
+INFO  21:47:50,430 - #5 i
+INFO  21:47:50,430 - #4 )
+INFO  21:47:50,431 - #18 ;
+INFO  21:47:50,431 - #5 board
+INFO  21:47:50,431 - #11 =
+INFO  21:47:50,431 - #39 new
+INFO  21:47:50,431 - #5 Board
+INFO  21:47:50,431 - #18 ;
+INFO  21:47:50,431 - #27 read
+INFO  21:47:50,431 - #3 (
+INFO  21:47:50,431 - #5 board
+INFO  21:47:50,431 - #40 .
+INFO  21:47:50,431 - #5 rows
+INFO  21:47:50,431 - #4 )
+INFO  21:47:50,431 - #18 ;
+INFO  21:47:50,431 - #5 x
+INFO  21:47:50,431 - #11 =
+INFO  21:47:50,431 - #5 board
+INFO  21:47:50,431 - #40 .
+INFO  21:47:50,431 - #5 rows
+INFO  21:47:50,431 - #18 ;
+INFO  21:47:50,431 - #22 do
+INFO  21:47:50,431 - #16 {
+INFO  21:47:50,432 - #47 if
+INFO  21:47:50,432 - #3 (
+INFO  21:47:50,432 - #5 x
+INFO  21:47:50,432 - #44 <=
+INFO  21:47:50,432 - #10 0
+INFO  21:47:50,432 - #4 )
+INFO  21:47:50,432 - #24 break
+INFO  21:47:50,432 - #18 ;
+INFO  21:47:50,433 - #47 if
+INFO  21:47:50,433 - #3 (
+INFO  21:47:50,433 - #10 0
+INFO  21:47:50,433 - #44 <=
+INFO  21:47:50,433 - #5 x
+INFO  21:47:50,433 - #33 &&
+INFO  21:47:50,433 - #5 x
+INFO  21:47:50,433 - #43 <
+INFO  21:47:50,433 - #5 size
+INFO  21:47:50,433 - #4 )
+INFO  21:47:50,433 - #16 {
+INFO  21:47:50,433 - #5 val
+INFO  21:47:50,434 - #40 .
+INFO  21:47:50,434 - #5 putp
+INFO  21:47:50,434 - #3 (
+INFO  21:47:50,434 - #5 val
+INFO  21:47:50,434 - #40 .
+INFO  21:47:50,434 - #5 getp
+INFO  21:47:50,434 - #3 (
+INFO  21:47:50,434 - #5 x
+INFO  21:47:50,434 - #4 )
+INFO  21:47:50,434 - #35 +
+INFO  21:47:50,434 - #10 1
+INFO  21:47:50,435 - #4 )
+INFO  21:47:50,435 - #18 ;
+INFO  21:47:50,435 - #17 }
+INFO  21:47:50,435 - #48 else
+INFO  21:47:50,435 - #47 if
+INFO  21:47:50,435 - #3 (
+INFO  21:47:50,435 - #34 -
+INFO  21:47:50,435 - #5 size
+INFO  21:47:50,435 - #43 <
+INFO  21:47:50,435 - #5 x
+INFO  21:47:50,435 - #33 &&
+INFO  21:47:50,435 - #5 x
+INFO  21:47:50,436 - #43 <
+INFO  21:47:50,436 - #10 0
+INFO  21:47:50,436 - #4 )
+INFO  21:47:50,436 - #16 {
+INFO  21:47:50,436 - #5 val
+INFO  21:47:50,436 - #40 .
+INFO  21:47:50,436 - #5 putn
+INFO  21:47:50,436 - #3 (
+INFO  21:47:50,436 - #5 val
+INFO  21:47:50,436 - #40 .
+INFO  21:47:50,436 - #5 getn
+INFO  21:47:50,436 - #3 (
+INFO  21:47:50,436 - #5 x
+INFO  21:47:50,436 - #4 )
+INFO  21:47:50,436 - #35 +
+INFO  21:47:50,436 - #10 1
+INFO  21:47:50,436 - #4 )
+INFO  21:47:50,436 - #18 ;
+INFO  21:47:50,436 - #17 }
+INFO  21:47:50,437 - #27 read
+INFO  21:47:50,437 - #3 (
+INFO  21:47:50,437 - #5 x
+INFO  21:47:50,437 - #4 )
+INFO  21:47:50,437 - #18 ;
+INFO  21:47:50,437 - #17 }
+INFO  21:47:50,437 - #23 while
+INFO  21:47:50,437 - #3 (
+INFO  21:47:50,437 - #8 true
+INFO  21:47:50,437 - #4 )
+INFO  21:47:50,438 - #18 ;
+INFO  21:47:50,438 - #17 }
+INFO  21:47:50,438 - #17 }
+INFO  21:47:50,447 - Program(
+  ProgName(
+   p
+  ) [ProgName]
+  ConstDeclarations(
+    Constants(
+      Type(
+       int
+      ) [Type]
+      NoConst(
+        NumConstant(
+         size
+        ) [NumConstant]
+      ) [NoConst]
+    ) [Constants]
+    ClassDeclarations(
+      NConstructorClassDeclaration(
+        ClassDeclarationName(
+         Table
+        ) [ClassDeclarationName]
+        Vars(
+          Variables(
+            VarDeclType(
+              Type(
+               int
+              ) [Type]
+            ) [VarDeclType]
+            MoreVariables(
+              Array(
+               pos
+              ) [Array]
+              OneVariable(
+                Array(
+                 neg
+                ) [Array]
+              ) [OneVariable]
+            ) [MoreVariables]
+          ) [Variables]
+          NoVar(
+          ) [NoVar]
+        ) [Vars]
+        Methods(
+          RegularMethod(
+            VoidTypeName(
+             putp
+            ) [VoidTypeName]
+            FormalPars(
+              Parameter(
+                Type(
+                 int
+                ) [Type]
+               a
+              ) [Parameter]
+              FormalPar(
+                Parameter(
+                  Type(
+                   int
+                  ) [Type]
+                 idx
+                ) [Parameter]
+              ) [FormalPar]
+            ) [FormalPars]
+            NoVar(
+            ) [NoVar]
+            MoreStatements(
+              NoLabelStmt(
+                DesignatorStmt(
+                  DesignatorAssign(
+                    ThisDesignator(
+                      Identificators(
+                        DotIdent(
+                         pos
+                        ) [DotIdent]
+                        OneIdentificator(
+                          BracketExpr(
+                            PositiveExpr(
+                              OneTerm(
+                                OneFactor(
+                                  DesignatorFactor(
+                                    OneIdent(
+                                     idx
+                                    ) [OneIdent]
+                                  ) [DesignatorFactor]
+                                ) [OneFactor]
+                              ) [OneTerm]
+                            ) [PositiveExpr]
+                          ) [BracketExpr]
+                        ) [OneIdentificator]
+                      ) [Identificators]
+                    ) [ThisDesignator]
+                    AssValue(
+                    ) [AssValue]
+                    PositiveExpr(
+                      OneTerm(
+                        OneFactor(
+                          DesignatorFactor(
+                            OneIdent(
+                             a
+                            ) [OneIdent]
+                          ) [DesignatorFactor]
+                        ) [OneFactor]
+                      ) [OneTerm]
+                    ) [PositiveExpr]
+                  ) [DesignatorAssign]
+                ) [DesignatorStmt]
+              ) [NoLabelStmt]
+              NoStatement(
+              ) [NoStatement]
+            ) [MoreStatements]
+          ) [RegularMethod]
+          Methods(
+            RegularMethod(
+              VoidTypeName(
+               putn
+              ) [VoidTypeName]
+              FormalPars(
+                Parameter(
+                  Type(
+                   int
+                  ) [Type]
+                 a
+                ) [Parameter]
+                FormalPar(
+                  Parameter(
+                    Type(
+                     int
+                    ) [Type]
+                   idx
+                  ) [Parameter]
+                ) [FormalPar]
+              ) [FormalPars]
+              NoVar(
+              ) [NoVar]
+              MoreStatements(
+                NoLabelStmt(
+                  DesignatorStmt(
+                    DesignatorAssign(
+                      ThisDesignator(
+                        Identificators(
+                          DotIdent(
+                           neg
+                          ) [DotIdent]
+                          OneIdentificator(
+                            BracketExpr(
+                              PositiveExpr(
+                                OneTerm(
+                                  OneFactor(
+                                    DesignatorFactor(
+                                      OneIdent(
+                                       idx
+                                      ) [OneIdent]
+                                    ) [DesignatorFactor]
+                                  ) [OneFactor]
+                                ) [OneTerm]
+                              ) [PositiveExpr]
+                            ) [BracketExpr]
+                          ) [OneIdentificator]
+                        ) [Identificators]
+                      ) [ThisDesignator]
+                      AssValue(
+                      ) [AssValue]
+                      PositiveExpr(
+                        OneTerm(
+                          OneFactor(
+                            DesignatorFactor(
+                              OneIdent(
+                               a
+                              ) [OneIdent]
+                            ) [DesignatorFactor]
+                          ) [OneFactor]
+                        ) [OneTerm]
+                      ) [PositiveExpr]
+                    ) [DesignatorAssign]
+                  ) [DesignatorStmt]
+                ) [NoLabelStmt]
+                NoStatement(
+                ) [NoStatement]
+              ) [MoreStatements]
+            ) [RegularMethod]
+            Methods(
+              VoidMethod(
+                MethodTypeName(
+                  Type(
+                   int
+                  ) [Type]
+                 getp
+                ) [MethodTypeName]
+                FormalPar(
+                  Parameter(
+                    Type(
+                     int
+                    ) [Type]
+                   idx
+                  ) [Parameter]
+                ) [FormalPar]
+                NoVar(
+                ) [NoVar]
+                MoreStatements(
+                  NoLabelStmt(
+                    ReturnExprStmt(
+                      PositiveExpr(
+                        OneTerm(
+                          OneFactor(
+                            DesignatorFactor(
+                              MoreIdentDes(
+                               pos
+                                OneIdentificator(
+                                  BracketExpr(
+                                    PositiveExpr(
+                                      OneTerm(
+                                        OneFactor(
+                                          DesignatorFactor(
+                                            OneIdent(
+                                             idx
+                                            ) [OneIdent]
+                                          ) [DesignatorFactor]
+                                        ) [OneFactor]
+                                      ) [OneTerm]
+                                    ) [PositiveExpr]
+                                  ) [BracketExpr]
+                                ) [OneIdentificator]
+                              ) [MoreIdentDes]
+                            ) [DesignatorFactor]
+                          ) [OneFactor]
+                        ) [OneTerm]
+                      ) [PositiveExpr]
+                    ) [ReturnExprStmt]
+                  ) [NoLabelStmt]
+                  NoStatement(
+                  ) [NoStatement]
+                ) [MoreStatements]
+              ) [VoidMethod]
+              Methods(
+                VoidMethod(
+                  MethodTypeName(
+                    Type(
+                     int
+                    ) [Type]
+                   getn
+                  ) [MethodTypeName]
+                  FormalPar(
+                    Parameter(
+                      Type(
+                       int
+                      ) [Type]
+                     idx
+                    ) [Parameter]
+                  ) [FormalPar]
+                  NoVar(
+                  ) [NoVar]
+                  MoreStatements(
+                    NoLabelStmt(
+                      ReturnExprStmt(
+                        PositiveExpr(
+                          OneTerm(
+                            OneFactor(
+                              DesignatorFactor(
+                                MoreIdentDes(
+                                 neg
+                                  OneIdentificator(
+                                    BracketExpr(
+                                      PositiveExpr(
+                                        OneTerm(
+                                          OneFactor(
+                                            DesignatorFactor(
+                                              OneIdent(
+                                               idx
+                                              ) [OneIdent]
+                                            ) [DesignatorFactor]
+                                          ) [OneFactor]
+                                        ) [OneTerm]
+                                      ) [PositiveExpr]
+                                    ) [BracketExpr]
+                                  ) [OneIdentificator]
+                                ) [MoreIdentDes]
+                              ) [DesignatorFactor]
+                            ) [OneFactor]
+                          ) [OneTerm]
+                        ) [PositiveExpr]
+                      ) [ReturnExprStmt]
+                    ) [NoLabelStmt]
+                    NoStatement(
+                    ) [NoStatement]
+                  ) [MoreStatements]
+                ) [VoidMethod]
+                NoMethod(
+                ) [NoMethod]
+              ) [Methods]
+            ) [Methods]
+          ) [Methods]
+        ) [Methods]
+      ) [NConstructorClassDeclaration]
+      RecordDeclarations(
+        Record(
+          RecordDeclName(
+           Board
+          ) [RecordDeclName]
+          Vars(
+            Variables(
+              VarDeclType(
+                Type(
+                 int
+                ) [Type]
+              ) [VarDeclType]
+              MoreVariables(
+                Var(
+                 rows
+                ) [Var]
+                OneVariable(
+                  Var(
+                   columns
+                  ) [Var]
+                ) [OneVariable]
+              ) [MoreVariables]
+            ) [Variables]
+            NoVar(
+            ) [NoVar]
+          ) [Vars]
+        ) [Record]
+        VarDeclarationss(
+          Variables(
+            VarDeclType(
+              Type(
+               Table
+              ) [Type]
+            ) [VarDeclType]
+            OneVariable(
+              Var(
+               val
+              ) [Var]
+            ) [OneVariable]
+          ) [Variables]
+          VarDeclarationss(
+            Variables(
+              VarDeclType(
+                Type(
+                 Board
+                ) [Type]
+              ) [VarDeclType]
+              OneVariable(
+                Var(
+                 board
+                ) [Var]
+              ) [OneVariable]
+            ) [Variables]
+            NoDeclaraions(
+            ) [NoDeclaraions]
+          ) [VarDeclarationss]
+        ) [VarDeclarationss]
+      ) [RecordDeclarations]
+    ) [ClassDeclarations]
+  ) [ConstDeclarations]
+  Methods(
+    RegularMethod(
+      VoidTypeName(
+       f
+      ) [VoidTypeName]
+      FormalPars(
+        Parameter(
+          Type(
+           char
+          ) [Type]
+         ch
+        ) [Parameter]
+        FormalPars(
+          Parameter(
+            Type(
+             int
+            ) [Type]
+           a
+          ) [Parameter]
+          FormalPar(
+            Parameter(
+              Type(
+               int
+              ) [Type]
+             arg
+            ) [Parameter]
+          ) [FormalPar]
+        ) [FormalPars]
+      ) [FormalPars]
+      Vars(
+        Variables(
+          VarDeclType(
+            Type(
+             int
+            ) [Type]
+          ) [VarDeclType]
+          OneVariable(
+            Var(
+             x
+            ) [Var]
+          ) [OneVariable]
+        ) [Variables]
+        NoVar(
+        ) [NoVar]
+      ) [Vars]
+      MoreStatements(
+        NoLabelStmt(
+          DesignatorStmt(
+            DesignatorAssign(
+              OneIdent(
+               x
+              ) [OneIdent]
+              AssValue(
+              ) [AssValue]
+              PositiveExpr(
+                OneTerm(
+                  OneFactor(
+                    DesignatorFactor(
+                      OneIdent(
+                       arg
+                      ) [OneIdent]
+                    ) [DesignatorFactor]
+                  ) [OneFactor]
+                ) [OneTerm]
+              ) [PositiveExpr]
+            ) [DesignatorAssign]
+          ) [DesignatorStmt]
+        ) [NoLabelStmt]
+        NoStatement(
+        ) [NoStatement]
+      ) [MoreStatements]
+    ) [RegularMethod]
+    Methods(
+      RegularMethod(
+        VoidTypeName(
+         main
+        ) [VoidTypeName]
+        NoFormalPar(
+        ) [NoFormalPar]
+        Vars(
+          Variables(
+            VarDeclType(
+              Type(
+               int
+              ) [Type]
+            ) [VarDeclType]
+            MoreVariables(
+              Var(
+               x
+              ) [Var]
+              OneVariable(
+                Var(
+                 i
+                ) [Var]
+              ) [OneVariable]
+            ) [MoreVariables]
+          ) [Variables]
+          Vars(
+            Variables(
+              VarDeclType(
+                Type(
+                 char
+                ) [Type]
+              ) [VarDeclType]
+              OneVariable(
+                Var(
+                 c
+                ) [Var]
+              ) [OneVariable]
+            ) [Variables]
+            NoVar(
+            ) [NoVar]
+          ) [Vars]
+        ) [Vars]
+        MoreStatements(
+          NoLabelStmt(
+            DesignatorStmt(
+              DesignatorAssign(
+                OneIdent(
+                 val
+                ) [OneIdent]
+                AssValue(
+                ) [AssValue]
+                PositiveExpr(
+                  OneTerm(
+                    OneFactor(
+                      NewFactor(
+                        Type(
+                         Table
+                        ) [Type]
+                      ) [NewFactor]
+                    ) [OneFactor]
+                  ) [OneTerm]
+                ) [PositiveExpr]
+              ) [DesignatorAssign]
+            ) [DesignatorStmt]
+          ) [NoLabelStmt]
+          MoreStatements(
+            NoLabelStmt(
+              DesignatorStmt(
+                DesignatorAssign(
+                  MoreIdentDes(
+                   val
+                    OneIdentificator(
+                      DotIdent(
+                       pos
+                      ) [DotIdent]
+                    ) [OneIdentificator]
+                  ) [MoreIdentDes]
+                  AssValue(
+                  ) [AssValue]
+                  PositiveExpr(
+                    OneTerm(
+                      OneFactor(
+                        NewFactorExpr(
+                          Type(
+                           int
+                          ) [Type]
+                          PositiveExpr(
+                            OneTerm(
+                              OneFactor(
+                                DesignatorFactor(
+                                  OneIdent(
+                                   size
+                                  ) [OneIdent]
+                                ) [DesignatorFactor]
+                              ) [OneFactor]
+                            ) [OneTerm]
+                          ) [PositiveExpr]
+                        ) [NewFactorExpr]
+                      ) [OneFactor]
+                    ) [OneTerm]
+                  ) [PositiveExpr]
+                ) [DesignatorAssign]
+              ) [DesignatorStmt]
+            ) [NoLabelStmt]
+            MoreStatements(
+              NoLabelStmt(
+                DesignatorStmt(
+                  DesignatorAssign(
+                    MoreIdentDes(
+                     val
+                      OneIdentificator(
+                        DotIdent(
+                         neg
+                        ) [DotIdent]
+                      ) [OneIdentificator]
+                    ) [MoreIdentDes]
+                    AssValue(
+                    ) [AssValue]
+                    PositiveExpr(
+                      OneTerm(
+                        OneFactor(
+                          NewFactorExpr(
+                            Type(
+                             int
+                            ) [Type]
+                            PositiveExpr(
+                              OneTerm(
+                                OneFactor(
+                                  DesignatorFactor(
+                                    OneIdent(
+                                     size
+                                    ) [OneIdent]
+                                  ) [DesignatorFactor]
+                                ) [OneFactor]
+                              ) [OneTerm]
+                            ) [PositiveExpr]
+                          ) [NewFactorExpr]
+                        ) [OneFactor]
+                      ) [OneTerm]
+                    ) [PositiveExpr]
+                  ) [DesignatorAssign]
+                ) [DesignatorStmt]
+              ) [NoLabelStmt]
+              MoreStatements(
+                NoLabelStmt(
+                  ReadStmt(
+                    OneIdent(
+                     x
+                    ) [OneIdent]
+                  ) [ReadStmt]
+                ) [NoLabelStmt]
+                MoreStatements(
+                  NoLabelStmt(
+                    IfStatement(
+                      OneOrCondition(
+                        OneAndTerm(
+                          RelCond(
+                            PositiveExpr(
+                              OneTerm(
+                                OneFactor(
+                                  DesignatorFactor(
+                                    OneIdent(
+                                     x
+                                    ) [OneIdent]
+                                  ) [DesignatorFactor]
+                                ) [OneFactor]
+                              ) [OneTerm]
+                            ) [PositiveExpr]
+                            GtOp(
+                            ) [GtOp]
+                            PositiveExpr(
+                              OneTerm(
+                                OneFactor(
+                                  NumConstFactor(
+                                  ) [NumConstFactor]
+                                ) [OneFactor]
+                              ) [OneTerm]
+                            ) [PositiveExpr]
+                          ) [RelCond]
+                        ) [OneAndTerm]
+                      ) [OneOrCondition]
+                      Stmts(
+                        MultipleStatements(
+                          MoreStatements(
+                            NoLabelStmt(
+                              GotoStmt(
+                                Lab(
+                                 skip
+                                ) [Lab]
+                              ) [GotoStmt]
+                            ) [NoLabelStmt]
+                            NoStatement(
+                            ) [NoStatement]
+                          ) [MoreStatements]
+                        ) [MultipleStatements]
+                      ) [Stmts]
+                    ) [IfStatement]
+                  ) [NoLabelStmt]
+                  MoreStatements(
+                    NoLabelStmt(
+                      DesignatorStmt(
+                        DesignatorAssign(
+                          OneIdent(
+                           i
+                          ) [OneIdent]
+                          AssValue(
+                          ) [AssValue]
+                          PositiveExpr(
+                            OneTerm(
+                              OneFactor(
+                                NumConstFactor(
+                                ) [NumConstFactor]
+                              ) [OneFactor]
+                            ) [OneTerm]
+                          ) [PositiveExpr]
+                        ) [DesignatorAssign]
+                      ) [DesignatorStmt]
+                    ) [NoLabelStmt]
+                    MoreStatements(
+                      NoLabelStmt(
+                        DoWhileStmt(
+                          Stmts(
+                            MultipleStatements(
+                              MoreStatements(
+                                NoLabelStmt(
+                                  DesignatorStmt(
+                                    DesignatorPars(
+                                      MoreIdentDes(
+                                       val
+                                        OneIdentificator(
+                                          DotIdent(
+                                           putp
+                                          ) [DotIdent]
+                                        ) [OneIdentificator]
+                                      ) [MoreIdentDes]
+                                      ActParsList(
+                                        PositiveExpr(
+                                          OneTerm(
+                                            OneFactor(
+                                              NumConstFactor(
+                                              ) [NumConstFactor]
+                                            ) [OneFactor]
+                                          ) [OneTerm]
+                                        ) [PositiveExpr]
+                                        OneActPars(
+                                          PositiveExpr(
+                                            OneTerm(
+                                              OneFactor(
+                                                DesignatorFactor(
+                                                  OneIdent(
+                                                   i
+                                                  ) [OneIdent]
+                                                ) [DesignatorFactor]
+                                              ) [OneFactor]
+                                            ) [OneTerm]
+                                          ) [PositiveExpr]
+                                        ) [OneActPars]
+                                      ) [ActParsList]
+                                    ) [DesignatorPars]
+                                  ) [DesignatorStmt]
+                                ) [NoLabelStmt]
+                                MoreStatements(
+                                  NoLabelStmt(
+                                    DesignatorStmt(
+                                      DesignatorPars(
+                                        MoreIdentDes(
+                                         val
+                                          OneIdentificator(
+                                            DotIdent(
+                                             putn
+                                            ) [DotIdent]
+                                          ) [OneIdentificator]
+                                        ) [MoreIdentDes]
+                                        ActParsList(
+                                          PositiveExpr(
+                                            OneTerm(
+                                              OneFactor(
+                                                NumConstFactor(
+                                                ) [NumConstFactor]
+                                              ) [OneFactor]
+                                            ) [OneTerm]
+                                          ) [PositiveExpr]
+                                          OneActPars(
+                                            PositiveExpr(
+                                              OneTerm(
+                                                OneFactor(
+                                                  DesignatorFactor(
+                                                    OneIdent(
+                                                     i
+                                                    ) [OneIdent]
+                                                  ) [DesignatorFactor]
+                                                ) [OneFactor]
+                                              ) [OneTerm]
+                                            ) [PositiveExpr]
+                                          ) [OneActPars]
+                                        ) [ActParsList]
+                                      ) [DesignatorPars]
+                                    ) [DesignatorStmt]
+                                  ) [NoLabelStmt]
+                                  MoreStatements(
+                                    NoLabelStmt(
+                                      DesignatorStmt(
+                                        DesignatorIncrement(
+                                          OneIdent(
+                                           i
+                                          ) [OneIdent]
+                                        ) [DesignatorIncrement]
+                                      ) [DesignatorStmt]
+                                    ) [NoLabelStmt]
+                                    NoStatement(
+                                    ) [NoStatement]
+                                  ) [MoreStatements]
+                                ) [MoreStatements]
+                              ) [MoreStatements]
+                            ) [MultipleStatements]
+                          ) [Stmts]
+                          OneOrCondition(
+                            OneAndTerm(
+                              RelCond(
+                                PositiveExpr(
+                                  OneTerm(
+                                    OneFactor(
+                                      DesignatorFactor(
+                                        OneIdent(
+                                         i
+                                        ) [OneIdent]
+                                      ) [DesignatorFactor]
+                                    ) [OneFactor]
+                                  ) [OneTerm]
+                                ) [PositiveExpr]
+                                LtOp(
+                                ) [LtOp]
+                                PositiveExpr(
+                                  OneTerm(
+                                    OneFactor(
+                                      DesignatorFactor(
+                                        OneIdent(
+                                         size
+                                        ) [OneIdent]
+                                      ) [DesignatorFactor]
+                                    ) [OneFactor]
+                                  ) [OneTerm]
+                                ) [PositiveExpr]
+                              ) [RelCond]
+                            ) [OneAndTerm]
+                          ) [OneOrCondition]
+                        ) [DoWhileStmt]
+                      ) [NoLabelStmt]
+                      MoreStatements(
+                        LabelStmt(
+                          Lab(
+                           skip
+                          ) [Lab]
+                          DesignatorStmt(
+                            DesignatorPars(
+                              OneIdent(
+                               f
+                              ) [OneIdent]
+                              ActParsList(
+                                PositiveExpr(
+                                  OneTerm(
+                                    OneFactor(
+                                      DesignatorFactor(
+                                        OneIdent(
+                                         c
+                                        ) [OneIdent]
+                                      ) [DesignatorFactor]
+                                    ) [OneFactor]
+                                  ) [OneTerm]
+                                ) [PositiveExpr]
+                                ActParsList(
+                                  PositiveExpr(
+                                    OneTerm(
+                                      OneFactor(
+                                        DesignatorFactor(
+                                          OneIdent(
+                                           x
+                                          ) [OneIdent]
+                                        ) [DesignatorFactor]
+                                      ) [OneFactor]
+                                    ) [OneTerm]
+                                  ) [PositiveExpr]
+                                  OneActPars(
+                                    PositiveExpr(
+                                      OneTerm(
+                                        OneFactor(
+                                          DesignatorFactor(
+                                            OneIdent(
+                                             i
+                                            ) [OneIdent]
+                                          ) [DesignatorFactor]
+                                        ) [OneFactor]
+                                      ) [OneTerm]
+                                    ) [PositiveExpr]
+                                  ) [OneActPars]
+                                ) [ActParsList]
+                              ) [ActParsList]
+                            ) [DesignatorPars]
+                          ) [DesignatorStmt]
+                        ) [LabelStmt]
+                        MoreStatements(
+                          NoLabelStmt(
+                            DesignatorStmt(
+                              DesignatorAssign(
+                                OneIdent(
+                                 board
+                                ) [OneIdent]
+                                AssValue(
+                                ) [AssValue]
+                                PositiveExpr(
+                                  OneTerm(
+                                    OneFactor(
+                                      NewFactor(
+                                        Type(
+                                         Board
+                                        ) [Type]
+                                      ) [NewFactor]
+                                    ) [OneFactor]
+                                  ) [OneTerm]
+                                ) [PositiveExpr]
+                              ) [DesignatorAssign]
+                            ) [DesignatorStmt]
+                          ) [NoLabelStmt]
+                          MoreStatements(
+                            NoLabelStmt(
+                              ReadStmt(
+                                MoreIdentDes(
+                                 board
+                                  OneIdentificator(
+                                    DotIdent(
+                                     rows
+                                    ) [DotIdent]
+                                  ) [OneIdentificator]
+                                ) [MoreIdentDes]
+                              ) [ReadStmt]
+                            ) [NoLabelStmt]
+                            MoreStatements(
+                              NoLabelStmt(
+                                DesignatorStmt(
+                                  DesignatorAssign(
+                                    OneIdent(
+                                     x
+                                    ) [OneIdent]
+                                    AssValue(
+                                    ) [AssValue]
+                                    PositiveExpr(
+                                      OneTerm(
+                                        OneFactor(
+                                          DesignatorFactor(
+                                            MoreIdentDes(
+                                             board
+                                              OneIdentificator(
+                                                DotIdent(
+                                                 rows
+                                                ) [DotIdent]
+                                              ) [OneIdentificator]
+                                            ) [MoreIdentDes]
+                                          ) [DesignatorFactor]
+                                        ) [OneFactor]
+                                      ) [OneTerm]
+                                    ) [PositiveExpr]
+                                  ) [DesignatorAssign]
+                                ) [DesignatorStmt]
+                              ) [NoLabelStmt]
+                              MoreStatements(
+                                NoLabelStmt(
+                                  DoWhileStmt(
+                                    Stmts(
+                                      MultipleStatements(
+                                        MoreStatements(
+                                          NoLabelStmt(
+                                            IfStatement(
+                                              OneOrCondition(
+                                                OneAndTerm(
+                                                  RelCond(
+                                                    PositiveExpr(
+                                                      OneTerm(
+                                                        OneFactor(
+                                                          DesignatorFactor(
+                                                            OneIdent(
+                                                             x
+                                                            ) [OneIdent]
+                                                          ) [DesignatorFactor]
+                                                        ) [OneFactor]
+                                                      ) [OneTerm]
+                                                    ) [PositiveExpr]
+                                                    LteOp(
+                                                    ) [LteOp]
+                                                    PositiveExpr(
+                                                      OneTerm(
+                                                        OneFactor(
+                                                          NumConstFactor(
+                                                          ) [NumConstFactor]
+                                                        ) [OneFactor]
+                                                      ) [OneTerm]
+                                                    ) [PositiveExpr]
+                                                  ) [RelCond]
+                                                ) [OneAndTerm]
+                                              ) [OneOrCondition]
+                                              NoLabelStmt(
+                                                BreakStmt(
+                                                ) [BreakStmt]
+                                              ) [NoLabelStmt]
+                                            ) [IfStatement]
+                                          ) [NoLabelStmt]
+                                          MoreStatements(
+                                            NoLabelStmt(
+                                              IfElseStatement(
+                                                OneOrCondition(
+                                                  AndTerms(
+                                                    RelCond(
+                                                      PositiveExpr(
+                                                        OneTerm(
+                                                          OneFactor(
+                                                            NumConstFactor(
+                                                            ) [NumConstFactor]
+                                                          ) [OneFactor]
+                                                        ) [OneTerm]
+                                                      ) [PositiveExpr]
+                                                      LteOp(
+                                                      ) [LteOp]
+                                                      PositiveExpr(
+                                                        OneTerm(
+                                                          OneFactor(
+                                                            DesignatorFactor(
+                                                              OneIdent(
+                                                               x
+                                                              ) [OneIdent]
+                                                            ) [DesignatorFactor]
+                                                          ) [OneFactor]
+                                                        ) [OneTerm]
+                                                      ) [PositiveExpr]
+                                                    ) [RelCond]
+                                                    OneAndTerm(
+                                                      RelCond(
+                                                        PositiveExpr(
+                                                          OneTerm(
+                                                            OneFactor(
+                                                              DesignatorFactor(
+                                                                OneIdent(
+                                                                 x
+                                                                ) [OneIdent]
+                                                              ) [DesignatorFactor]
+                                                            ) [OneFactor]
+                                                          ) [OneTerm]
+                                                        ) [PositiveExpr]
+                                                        LtOp(
+                                                        ) [LtOp]
+                                                        PositiveExpr(
+                                                          OneTerm(
+                                                            OneFactor(
+                                                              DesignatorFactor(
+                                                                OneIdent(
+                                                                 size
+                                                                ) [OneIdent]
+                                                              ) [DesignatorFactor]
+                                                            ) [OneFactor]
+                                                          ) [OneTerm]
+                                                        ) [PositiveExpr]
+                                                      ) [RelCond]
+                                                    ) [OneAndTerm]
+                                                  ) [AndTerms]
+                                                ) [OneOrCondition]
+                                                Stmts(
+                                                  MultipleStatements(
+                                                    MoreStatements(
+                                                      NoLabelStmt(
+                                                        DesignatorStmt(
+                                                          DesignatorPars(
+                                                            MoreIdentDes(
+                                                             val
+                                                              OneIdentificator(
+                                                                DotIdent(
+                                                                 putp
+                                                                ) [DotIdent]
+                                                              ) [OneIdentificator]
+                                                            ) [MoreIdentDes]
+                                                            OneActPars(
+                                                              PositiveExpr(
+                                                                Terms(
+                                                                  OneFactor(
+                                                                    DesignatorParsFactor(
+                                                                      MoreIdentDes(
+                                                                       val
+                                                                        OneIdentificator(
+                                                                          DotIdent(
+                                                                           getp
+                                                                          ) [DotIdent]
+                                                                        ) [OneIdentificator]
+                                                                      ) [MoreIdentDes]
+                                                                      OneActPars(
+                                                                        PositiveExpr(
+                                                                          OneTerm(
+                                                                            OneFactor(
+                                                                              DesignatorFactor(
+                                                                                OneIdent(
+                                                                                 x
+                                                                                ) [OneIdent]
+                                                                              ) [DesignatorFactor]
+                                                                            ) [OneFactor]
+                                                                          ) [OneTerm]
+                                                                        ) [PositiveExpr]
+                                                                      ) [OneActPars]
+                                                                    ) [DesignatorParsFactor]
+                                                                  ) [OneFactor]
+                                                                  PlusOp(
+                                                                  ) [PlusOp]
+                                                                  OneTerm(
+                                                                    OneFactor(
+                                                                      NumConstFactor(
+                                                                      ) [NumConstFactor]
+                                                                    ) [OneFactor]
+                                                                  ) [OneTerm]
+                                                                ) [Terms]
+                                                              ) [PositiveExpr]
+                                                            ) [OneActPars]
+                                                          ) [DesignatorPars]
+                                                        ) [DesignatorStmt]
+                                                      ) [NoLabelStmt]
+                                                      NoStatement(
+                                                      ) [NoStatement]
+                                                    ) [MoreStatements]
+                                                  ) [MultipleStatements]
+                                                ) [Stmts]
+                                                NoLabelStmt(
+                                                  IfStatement(
+                                                    OneOrCondition(
+                                                      AndTerms(
+                                                        RelCond(
+                                                          NegativeExpr(
+                                                            OneTerm(
+                                                              OneFactor(
+                                                                DesignatorFactor(
+                                                                  OneIdent(
+                                                                   size
+                                                                  ) [OneIdent]
+                                                                ) [DesignatorFactor]
+                                                              ) [OneFactor]
+                                                            ) [OneTerm]
+                                                          ) [NegativeExpr]
+                                                          LtOp(
+                                                          ) [LtOp]
+                                                          PositiveExpr(
+                                                            OneTerm(
+                                                              OneFactor(
+                                                                DesignatorFactor(
+                                                                  OneIdent(
+                                                                   x
+                                                                  ) [OneIdent]
+                                                                ) [DesignatorFactor]
+                                                              ) [OneFactor]
+                                                            ) [OneTerm]
+                                                          ) [PositiveExpr]
+                                                        ) [RelCond]
+                                                        OneAndTerm(
+                                                          RelCond(
+                                                            PositiveExpr(
+                                                              OneTerm(
+                                                                OneFactor(
+                                                                  DesignatorFactor(
+                                                                    OneIdent(
+                                                                     x
+                                                                    ) [OneIdent]
+                                                                  ) [DesignatorFactor]
+                                                                ) [OneFactor]
+                                                              ) [OneTerm]
+                                                            ) [PositiveExpr]
+                                                            LtOp(
+                                                            ) [LtOp]
+                                                            PositiveExpr(
+                                                              OneTerm(
+                                                                OneFactor(
+                                                                  NumConstFactor(
+                                                                  ) [NumConstFactor]
+                                                                ) [OneFactor]
+                                                              ) [OneTerm]
+                                                            ) [PositiveExpr]
+                                                          ) [RelCond]
+                                                        ) [OneAndTerm]
+                                                      ) [AndTerms]
+                                                    ) [OneOrCondition]
+                                                    Stmts(
+                                                      MultipleStatements(
+                                                        MoreStatements(
+                                                          NoLabelStmt(
+                                                            DesignatorStmt(
+                                                              DesignatorPars(
+                                                                MoreIdentDes(
+                                                                 val
+                                                                  OneIdentificator(
+                                                                    DotIdent(
+                                                                     putn
+                                                                    ) [DotIdent]
+                                                                  ) [OneIdentificator]
+                                                                ) [MoreIdentDes]
+                                                                OneActPars(
+                                                                  PositiveExpr(
+                                                                    Terms(
+                                                                      OneFactor(
+                                                                        DesignatorParsFactor(
+                                                                          MoreIdentDes(
+                                                                           val
+                                                                            OneIdentificator(
+                                                                              DotIdent(
+                                                                               getn
+                                                                              ) [DotIdent]
+                                                                            ) [OneIdentificator]
+                                                                          ) [MoreIdentDes]
+                                                                          OneActPars(
+                                                                            PositiveExpr(
+                                                                              OneTerm(
+                                                                                OneFactor(
+                                                                                  DesignatorFactor(
+                                                                                    OneIdent(
+                                                                                     x
+                                                                                    ) [OneIdent]
+                                                                                  ) [DesignatorFactor]
+                                                                                ) [OneFactor]
+                                                                              ) [OneTerm]
+                                                                            ) [PositiveExpr]
+                                                                          ) [OneActPars]
+                                                                        ) [DesignatorParsFactor]
+                                                                      ) [OneFactor]
+                                                                      PlusOp(
+                                                                      ) [PlusOp]
+                                                                      OneTerm(
+                                                                        OneFactor(
+                                                                          NumConstFactor(
+                                                                          ) [NumConstFactor]
+                                                                        ) [OneFactor]
+                                                                      ) [OneTerm]
+                                                                    ) [Terms]
+                                                                  ) [PositiveExpr]
+                                                                ) [OneActPars]
+                                                              ) [DesignatorPars]
+                                                            ) [DesignatorStmt]
+                                                          ) [NoLabelStmt]
+                                                          NoStatement(
+                                                          ) [NoStatement]
+                                                        ) [MoreStatements]
+                                                      ) [MultipleStatements]
+                                                    ) [Stmts]
+                                                  ) [IfStatement]
+                                                ) [NoLabelStmt]
+                                              ) [IfElseStatement]
+                                            ) [NoLabelStmt]
+                                            MoreStatements(
+                                              NoLabelStmt(
+                                                ReadStmt(
+                                                  OneIdent(
+                                                   x
+                                                  ) [OneIdent]
+                                                ) [ReadStmt]
+                                              ) [NoLabelStmt]
+                                              NoStatement(
+                                              ) [NoStatement]
+                                            ) [MoreStatements]
+                                          ) [MoreStatements]
+                                        ) [MoreStatements]
+                                      ) [MultipleStatements]
+                                    ) [Stmts]
+                                    OneOrCondition(
+                                      OneAndTerm(
+                                        ExprCond(
+                                          PositiveExpr(
+                                            OneTerm(
+                                              OneFactor(
+                                                BoolConstFactor(
+                                                ) [BoolConstFactor]
+                                              ) [OneFactor]
+                                            ) [OneTerm]
+                                          ) [PositiveExpr]
+                                        ) [ExprCond]
+                                      ) [OneAndTerm]
+                                    ) [OneOrCondition]
+                                  ) [DoWhileStmt]
+                                ) [NoLabelStmt]
+                                NoStatement(
+                                ) [NoStatement]
+                              ) [MoreStatements]
+                            ) [MoreStatements]
+                          ) [MoreStatements]
+                        ) [MoreStatements]
+                      ) [MoreStatements]
+                    ) [MoreStatements]
+                  ) [MoreStatements]
+                ) [MoreStatements]
+              ) [MoreStatements]
+            ) [MoreStatements]
+          ) [MoreStatements]
+        ) [MoreStatements]
+      ) [RegularMethod]
+      NoMethod(
+      ) [NoMethod]
+    ) [Methods]
+  ) [Methods]
+) [Program]
+INFO  21:47:50,449 - ===================================
+INFO  21:47:50,459 - Obradjuje se klasa Table na liniji 3
+INFO  21:47:50,459 - Obradjuje se funkcija putp na liniji 6
+INFO  21:47:50,459 - Obradjuje se funkcija putn na liniji 7
+INFO  21:47:50,459 - Obradjuje se funkcija getp na liniji 8
+INFO  21:47:50,459 - Obradjuje se funkcija getn na liniji 9
+INFO  21:47:50,460 - Obradjuje se rekord Board na liniji 12
+INFO  21:47:50,460 - Obradjuje se funkcija f na liniji 18
+INFO  21:47:50,460 - Obradjuje se funkcija main na liniji 23
+INFO  21:47:50,460 -  Print count calls = 0
+INFO  21:47:50,460 -  Deklarisanih promenljivih ima = 17
+INFO  21:47:50,460 -  Broj pristupa elementu niza ima  = 0

@@ -1,0 +1,359 @@
+Compiling source file: D:\ETF\sedmiSemestar\PP1\Jflex\Izvorni kod\MJCompiler\src\..\test\syntaxAnalyseError.mj
+Program(
+  ProgName(
+   p
+  ) [ProgName]
+  VarDeclarationss(
+    VarDeclarationss(
+      RecordDeclarations(
+        ConstDeclarations(
+          NoDeclaraions(
+          ) [NoDeclaraions]
+          Constants(
+            ConstType(
+              Type(
+               int
+              ) [Type]
+            ) [ConstType]
+            NoConst(
+              NumConstant(
+               size
+               10
+              ) [NumConstant]
+            ) [NoConst]
+          ) [Constants]
+        ) [ConstDeclarations]
+        Record(
+          RecordDeclName(
+           Board
+          ) [RecordDeclName]
+          Vars(
+            Vars(
+              Vars(
+                NoVar(
+                ) [NoVar]
+                Variables(
+                  VarDeclType(
+                    Type(
+                     int
+                    ) [Type]
+                  ) [VarDeclType]
+                  OneVariable(
+                    Array(
+                     rows
+                    ) [Array]
+                  ) [OneVariable]
+                ) [Variables]
+              ) [Vars]
+              Variables(
+                VarDeclType(
+                  Type(
+                   int
+                  ) [Type]
+                ) [VarDeclType]
+                OneVariable(
+                  Array(
+                   columns
+                  ) [Array]
+                ) [OneVariable]
+              ) [Variables]
+            ) [Vars]
+            Variables(
+              VarDeclType(
+                Type(
+                 int
+                ) [Type]
+              ) [VarDeclType]
+              OneVariable(
+                Var(
+                 size
+                ) [Var]
+              ) [OneVariable]
+            ) [Variables]
+          ) [Vars]
+        ) [Record]
+      ) [RecordDeclarations]
+      Variables(
+        VarDeclType(
+          Type(
+           Board
+          ) [Type]
+        ) [VarDeclType]
+        OneVariable(
+          Var(
+           board
+          ) [Var]
+        ) [OneVariable]
+      ) [Variables]
+    ) [VarDeclarationss]
+    DeclListError(
+    ) [DeclListError]
+  ) [VarDeclarationss]
+  Methods(
+    Methods(
+      NoMethod(
+      ) [NoMethod]
+      VoidMethod(
+        VoidTypeName(
+         f
+        ) [VoidTypeName]
+        FormalPars(
+          FormalPars(
+            FormalPar(
+              Parameter(
+                Type(
+                 char
+                ) [Type]
+               ch
+              ) [Parameter]
+            ) [FormalPar]
+            Parameter(
+              Type(
+               int
+              ) [Type]
+             arg
+            ) [Parameter]
+          ) [FormalPars]
+          Parameter(
+            Type(
+             int
+            ) [Type]
+           a
+          ) [Parameter]
+        ) [FormalPars]
+        Vars(
+          NoVar(
+          ) [NoVar]
+          Variables(
+            VarDeclType(
+              Type(
+               int
+              ) [Type]
+            ) [VarDeclType]
+            OneVariable(
+              Var(
+               x
+              ) [Var]
+            ) [OneVariable]
+          ) [Variables]
+        ) [Vars]
+        MoreStatements(
+          NoStatement(
+          ) [NoStatement]
+          NoLabelStmt(
+            DesignatorStmt(
+              DesignatorAssign(
+                OneIdent(
+                 x
+                ) [OneIdent]
+                AssValue(
+                ) [AssValue]
+                PositiveExpr(
+                  OneTerm(
+                    OneFactor(
+                      DesignatorFactor(
+                        OneIdent(
+                         arg
+                        ) [OneIdent]
+                      ) [DesignatorFactor]
+                    ) [OneFactor]
+                  ) [OneTerm]
+                ) [PositiveExpr]
+              ) [DesignatorAssign]
+            ) [DesignatorStmt]
+          ) [NoLabelStmt]
+        ) [MoreStatements]
+      ) [VoidMethod]
+    ) [Methods]
+    VoidMethod(
+      VoidTypeName(
+       main
+      ) [VoidTypeName]
+      NoFormalPar(
+      ) [NoFormalPar]
+      Vars(
+        Vars(
+          NoVar(
+          ) [NoVar]
+          Variables(
+            VarDeclType(
+              Type(
+               int
+              ) [Type]
+            ) [VarDeclType]
+            MoreVariables(
+              OneVariable(
+                Var(
+                 x
+                ) [Var]
+              ) [OneVariable]
+              Var(
+               i
+              ) [Var]
+            ) [MoreVariables]
+          ) [Variables]
+        ) [Vars]
+        Variables(
+          VarDeclType(
+            Type(
+             char
+            ) [Type]
+          ) [VarDeclType]
+          OneVariable(
+            Var(
+             c
+            ) [Var]
+          ) [OneVariable]
+        ) [Variables]
+      ) [Vars]
+      MoreStatements(
+        MoreStatements(
+          MoreStatements(
+            MoreStatements(
+              NoStatement(
+              ) [NoStatement]
+              NoLabelStmt(
+                DesignatorStmt(
+                  DesignatorAssign(
+                    OneIdent(
+                     board
+                    ) [OneIdent]
+                    AssValue(
+                    ) [AssValue]
+                    PositiveExpr(
+                      OneTerm(
+                        OneFactor(
+                          NewFactor(
+                            Type(
+                             Board
+                            ) [Type]
+                          ) [NewFactor]
+                        ) [OneFactor]
+                      ) [OneTerm]
+                    ) [PositiveExpr]
+                  ) [DesignatorAssign]
+                ) [DesignatorStmt]
+              ) [NoLabelStmt]
+            ) [MoreStatements]
+            NoLabelStmt(
+              DesignatorStmt(
+                DesignatorAssign(
+                  Field(
+                    FieldName(
+                     board
+                    ) [FieldName]
+                   rows
+                  ) [Field]
+                  AssValue(
+                  ) [AssValue]
+                  PositiveExpr(
+                    OneTerm(
+                      OneFactor(
+                        NewFactorExpr(
+                          Type(
+                           int
+                          ) [Type]
+                          PositiveExpr(
+                            OneTerm(
+                              OneFactor(
+                                NumConstFactor(
+                                 5
+                                ) [NumConstFactor]
+                              ) [OneFactor]
+                            ) [OneTerm]
+                          ) [PositiveExpr]
+                        ) [NewFactorExpr]
+                      ) [OneFactor]
+                    ) [OneTerm]
+                  ) [PositiveExpr]
+                ) [DesignatorAssign]
+              ) [DesignatorStmt]
+            ) [NoLabelStmt]
+          ) [MoreStatements]
+          NoLabelStmt(
+            ErrorAssOpStmt(
+            ) [ErrorAssOpStmt]
+          ) [NoLabelStmt]
+        ) [MoreStatements]
+        NoLabelStmt(
+          IfStatement(
+            IfCondition_Cond(
+              IfDummy(
+              ) [IfDummy]
+              IfCondParen_Error(
+              ) [IfCondParen_Error]
+            ) [IfCondition_Cond]
+            Stmts(
+              MultipleStatements(
+                MoreStatements(
+                  NoStatement(
+                  ) [NoStatement]
+                  NoLabelStmt(
+                    PrintStmt(
+                      PositiveExpr(
+                        OneTerm(
+                          OneFactor(
+                            NumConstFactor(
+                             1
+                            ) [NumConstFactor]
+                          ) [OneFactor]
+                        ) [OneTerm]
+                      ) [PositiveExpr]
+                    ) [PrintStmt]
+                  ) [NoLabelStmt]
+                ) [MoreStatements]
+              ) [MultipleStatements]
+            ) [Stmts]
+            OptElseBranch_Eps(
+            ) [OptElseBranch_Eps]
+          ) [IfStatement]
+        ) [NoLabelStmt]
+      ) [MoreStatements]
+    ) [VoidMethod]
+  ) [Methods]
+) [Program]
+===================================
+Obradjuje se rekord Board na liniji 5
+Deklarisana globalna promenljiva board na liniji 11
+Deklarisan rekord board na liniji 11
+Obradjuje se funkcija f na liniji 15
+Deklarisana lokalna promenljiva x na liniji 16
+Obradjuje se funkcija main na liniji 20
+Deklarisana lokalna promenljiva x na liniji 20
+Deklarisana lokalna promenljiva i na liniji 20
+Deklarisana lokalna promenljiva c na liniji 20
+===================================
+=====================SYMBOL TABLE DUMP=========================
+Type int: int, -1, -1 
+Type char: char, -1, -1 
+Con eol: char, 10, 0 
+Con null: Class [], 0, 0 
+Meth chr: char, 0, 1 
+   Var i: int, 0, 1 
+
+Meth ord: int, 0, 1 
+   Var ch: char, 0, 1 
+
+Meth len: int, 0, 1 
+   Var arr: Arr of notype, 0, 1 
+
+Prog p: notype, 0, 1 
+   Con size: int, 10, 0 
+   Type Board: Class [Fld rows: Arr of int, 0, 1 Fld columns: Arr of int, 1, 1 Fld size: int, 2, 1 ], 0, 0 
+   Var board: Class [Fld rows: Arr of int, 0, 1 Fld columns: Arr of int, 1, 1 Fld size: int, 2, 1 ], 0, 0 
+   Meth f: notype, 0, 3 
+      Var ch: char, 0, 1 
+      Var arg: int, 1, 1 
+      Var a: int, 2, 1 
+      Var x: int, 3, 1 
+
+   Meth main: notype, 0, 0 
+      Var x: int, 0, 1 
+      Var i: int, 1, 1 
+      Var c: char, 2, 1 
+
+
+Type bool: , -1, -1 
+
+Compilation unsuccessful!
+-- file test/syntaxAnalyseError.obj not found

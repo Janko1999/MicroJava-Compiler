@@ -1,0 +1,127 @@
+INFO  19:51:34,166 - #2 program
+INFO  19:51:34,167 - #5 p
+INFO  19:51:34,167 - #7 const
+INFO  19:51:34,168 - #5 int
+INFO  19:51:34,168 - #5 size
+INFO  19:51:34,169 - #10 =
+INFO  19:51:34,169 - #11 10
+INFO  19:51:34,169 - #18 ;
+INFO  19:51:34,169 - #17 }
+ERROR 19:51:34,170 - 
+Sintaksna greska na liniji 4
+INFO  19:51:34,170 - #19 record
+INFO  19:51:34,170 - #5 Board
+INFO  19:51:34,170 - #16 {
+INFO  19:51:34,170 - #5 int
+INFO  19:51:34,171 - #5 rows
+INFO  19:51:34,171 - #12 [
+INFO  19:51:34,171 - #13 ]
+INFO  19:51:34,171 - #18 ;
+INFO  19:51:34,171 - #5 int
+INFO  19:51:34,171 - #5 columns
+INFO  19:51:34,171 - #12 [
+ERROR 19:51:34,171 - Izvrsen oporavak od greske usled deklaracije globalnih promenljivih do ; na liniji 8
+INFO  19:51:34,173 - #13 ]
+INFO  19:51:34,173 - #18 ;
+INFO  19:51:34,173 - #5 int
+INFO  19:51:34,174 - #5 size
+INFO  19:51:34,174 - #18 ;
+INFO  19:51:34,174 - #17 }
+ERROR 19:51:34,174 - 
+Sintaksna greska na liniji 9
+INFO  19:51:34,174 - #5 Board
+INFO  19:51:34,174 - #5 board
+INFO  19:51:34,174 - #18 ;
+INFO  19:51:34,175 - #5 int
+INFO  19:51:34,175 - #18 ;
+INFO  19:51:34,175 - #16 {
+INFO  19:51:34,175 - #20 void
+INFO  19:51:34,175 - #5 f
+ERROR 19:51:34,175 - Izvrsen oporavak od greske usled deklaracije globalnih promenljivih do ; na liniji 8
+INFO  19:51:34,176 - #3 (
+INFO  19:51:34,177 - #5 char
+INFO  19:51:34,177 - #5 ch
+INFO  19:51:34,177 - #8 ,
+INFO  19:51:34,177 - #5 int
+INFO  19:51:34,177 - #5 arg
+INFO  19:51:34,178 - #8 ,
+INFO  19:51:34,178 - #5 int
+INFO  19:51:34,178 - #5 a
+INFO  19:51:34,178 - #4 )
+INFO  19:51:34,178 - #5 int
+INFO  19:51:34,179 - #5 x
+INFO  19:51:34,179 - #18 ;
+INFO  19:51:34,179 - #16 {
+INFO  19:51:34,179 - #5 x
+INFO  19:51:34,179 - #10 =
+INFO  19:51:34,180 - #5 arg
+INFO  19:51:34,181 - #18 ;
+INFO  19:51:34,181 - #17 }
+INFO  19:51:34,182 - #20 void
+INFO  19:51:34,182 - #5 main
+INFO  19:51:34,182 - #3 (
+INFO  19:51:34,182 - #4 )
+INFO  19:51:34,183 - #5 int
+INFO  19:51:34,183 - #5 x
+INFO  19:51:34,183 - #8 ,
+INFO  19:51:34,183 - #5 i
+INFO  19:51:34,183 - #18 ;
+INFO  19:51:34,184 - #5 char
+INFO  19:51:34,184 - #5 c
+INFO  19:51:34,184 - #18 ;
+INFO  19:51:34,184 - #16 {
+INFO  19:51:34,184 - #5 board
+INFO  19:51:34,184 - #10 =
+INFO  19:51:34,184 - #39 new
+INFO  19:51:34,184 - #5 Board
+INFO  19:51:34,184 - #18 ;
+INFO  19:51:34,185 - #5 board
+INFO  19:51:34,185 - #40 .
+INFO  19:51:34,185 - #5 rows
+INFO  19:51:34,186 - #10 =
+INFO  19:51:34,186 - #39 new
+INFO  19:51:34,186 - #5 int
+INFO  19:51:34,186 - #12 [
+INFO  19:51:34,186 - #11 5
+INFO  19:51:34,186 - #13 ]
+INFO  19:51:34,186 - #18 ;
+INFO  19:51:34,187 - #5 board
+INFO  19:51:34,187 - #40 .
+INFO  19:51:34,187 - #5 size
+INFO  19:51:34,187 - #10 =
+INFO  19:51:34,187 - #18 ;
+ERROR 19:51:34,187 - 
+Sintaksna greska na liniji 24
+INFO  19:51:34,187 - #47 if
+INFO  19:51:34,187 - #3 (
+INFO  19:51:34,187 - #5 board
+ERROR 19:51:34,187 - Izvrsen oporavak do ; u liniji 24
+INFO  19:51:34,189 - #40 .
+INFO  19:51:34,189 - #5 rows
+INFO  19:51:34,189 - #12 [
+INFO  19:51:34,190 - #11 0
+INFO  19:51:34,190 - #13 ]
+INFO  19:51:34,190 - #46 !=
+INFO  19:51:34,191 - #4 )
+ERROR 19:51:34,191 - 
+Sintaksna greska na liniji 25
+INFO  19:51:34,191 - #16 {
+INFO  19:51:34,191 - #28 print
+INFO  19:51:34,191 - #3 (
+ERROR 19:51:34,191 - Izvrsen oporavak do ) u liniji 25
+INFO  19:51:34,192 - #11 1
+INFO  19:51:34,192 - #4 )
+INFO  19:51:34,192 - #18 ;
+INFO  19:51:34,192 - #17 }
+INFO  19:51:34,192 - #17 }
+INFO  19:51:34,193 - #17 }
+INFO  19:51:34,211 - Obradjuje se funkcija f na liniji 14
+INFO  19:51:34,212 - Deklarisana lokalna promenljiva x na liniji 15
+INFO  19:51:34,213 - Obradjuje se funkcija main na liniji 19
+INFO  19:51:34,213 - Deklarisana lokalna promenljiva x na liniji 19
+INFO  19:51:34,213 - Deklarisana lokalna promenljiva i na liniji 19
+INFO  19:51:34,213 - Deklarisana lokalna promenljiva c na liniji 19
+ERROR 19:51:34,214 - Greska na liniji 22 : ime board nije deklarisano! 
+ERROR 19:51:34,214 - Nije pronadjen tip Board u tabeli simbola! 
+ERROR 19:51:34,214 - Greska na liniji 22 : promenljiva se moze inicijalizovati samo klasnim tipom.
+ERROR 19:51:34,214 - Greska na liniji 23 : ime board nije klasnog tipa! 

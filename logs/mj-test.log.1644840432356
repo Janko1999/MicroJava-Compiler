@@ -1,0 +1,95 @@
+INFO  13:05:31,645 - Compiling source file: D:\ETF\sedmiSemestar\PP1\Jflex\Izvorni kod\MJCompiler\test\test301.mj
+INFO  13:05:31,771 - #2 program
+INFO  13:05:31,772 - #5 test302
+INFO  13:05:31,772 - #16 {
+INFO  13:05:31,775 - #20 void
+INFO  13:05:31,777 - #5 main
+INFO  13:05:31,777 - #3 (
+INFO  13:05:31,778 - #4 )
+INFO  13:05:31,780 - #5 char
+INFO  13:05:31,781 - #5 x
+INFO  13:05:31,783 - #18 ;
+INFO  13:05:31,784 - #16 {
+INFO  13:05:31,785 - #27 read
+INFO  13:05:31,787 - #3 (
+INFO  13:05:31,787 - #5 x
+INFO  13:05:31,787 - #4 )
+INFO  13:05:31,788 - #18 ;
+INFO  13:05:31,788 - #28 print
+INFO  13:05:31,789 - #3 (
+INFO  13:05:31,790 - #5 x
+INFO  13:05:31,790 - #4 )
+INFO  13:05:31,792 - #18 ;
+INFO  13:05:31,792 - #17 }
+INFO  13:05:31,794 - #17 }
+INFO  13:05:31,813 - Program(
+  ProgName(
+   test302
+  ) [ProgName]
+  NoDeclaraions(
+  ) [NoDeclaraions]
+  Methods(
+    NoMethod(
+    ) [NoMethod]
+    VoidMethod(
+      VoidTypeName(
+       main
+      ) [VoidTypeName]
+      NoFormalPar(
+      ) [NoFormalPar]
+      Vars(
+        NoVar(
+        ) [NoVar]
+        Variables(
+          VarDeclType(
+            Type(
+             char
+            ) [Type]
+          ) [VarDeclType]
+          OneVariable(
+            Var(
+             x
+            ) [Var]
+          ) [OneVariable]
+        ) [Variables]
+      ) [Vars]
+      MoreStatements(
+        MoreStatements(
+          NoStatement(
+          ) [NoStatement]
+          NoLabelStmt(
+            ReadStmt(
+              OneIdent(
+               x
+              ) [OneIdent]
+            ) [ReadStmt]
+          ) [NoLabelStmt]
+        ) [MoreStatements]
+        NoLabelStmt(
+          PrintStmt(
+            PositiveExpr(
+              OneTerm(
+                OneFactor(
+                  DesignatorFactor(
+                    OneIdent(
+                     x
+                    ) [OneIdent]
+                  ) [DesignatorFactor]
+                ) [OneFactor]
+              ) [OneTerm]
+            ) [PositiveExpr]
+          ) [PrintStmt]
+        ) [NoLabelStmt]
+      ) [MoreStatements]
+    ) [VoidMethod]
+  ) [Methods]
+) [Program]
+INFO  13:05:31,814 - ===================================
+INFO  13:05:31,826 - Obradjuje se funkcija main na liniji 12
+INFO  13:05:31,828 -  Broj pristupa elementu niza = 0
+INFO  13:05:31,828 -  Deklarisanih globalnih promenljivih ima = 0
+INFO  13:05:31,828 -  Deklarisanih lokalnih promenljivih ima = 1
+INFO  13:05:31,829 - Broj poziva globalnih funkcija je: 0
+INFO  13:05:31,829 -  Broj rekorda je = 0
+INFO  13:05:31,829 - ===================================
+INFO  13:05:31,875 - Parsiranje uspesno zavrseno!

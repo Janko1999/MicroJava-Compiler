@@ -1,0 +1,122 @@
+INFO  19:56:54,716 - #2 program
+INFO  19:56:54,717 - #5 p
+INFO  19:56:54,717 - #7 const
+INFO  19:56:54,718 - #5 int
+INFO  19:56:54,718 - #5 size
+INFO  19:56:54,719 - #10 =
+INFO  19:56:54,719 - #11 10
+INFO  19:56:54,719 - #18 ;
+INFO  19:56:54,719 - #19 record
+INFO  19:56:54,720 - #5 Board
+INFO  19:56:54,720 - #16 {
+INFO  19:56:54,720 - #5 int
+INFO  19:56:54,721 - #5 rows
+INFO  19:56:54,721 - #12 [
+INFO  19:56:54,722 - #13 ]
+INFO  19:56:54,722 - #18 ;
+INFO  19:56:54,722 - #5 int
+INFO  19:56:54,722 - #5 columns
+INFO  19:56:54,722 - #12 [
+INFO  19:56:54,722 - #13 ]
+INFO  19:56:54,723 - #18 ;
+INFO  19:56:54,723 - #5 int
+INFO  19:56:54,723 - #5 size
+INFO  19:56:54,723 - #18 ;
+INFO  19:56:54,723 - #17 }
+INFO  19:56:54,724 - #5 Board
+INFO  19:56:54,724 - #5 board
+INFO  19:56:54,724 - #18 ;
+INFO  19:56:54,724 - #5 int
+INFO  19:56:54,724 - #18 ;
+ERROR 19:56:54,724 - 
+Sintaksna greska na liniji 12
+INFO  19:56:54,725 - #16 {
+INFO  19:56:54,725 - #20 void
+INFO  19:56:54,725 - #5 f
+ERROR 19:56:54,725 - Izvrsen oporavak od greske usled deklaracije globalnih promenljivih do ; na liniji 12
+INFO  19:56:54,726 - #3 (
+INFO  19:56:54,727 - #5 char
+INFO  19:56:54,727 - #5 ch
+INFO  19:56:54,727 - #8 ,
+INFO  19:56:54,727 - #5 int
+INFO  19:56:54,727 - #5 arg
+INFO  19:56:54,727 - #8 ,
+INFO  19:56:54,728 - #5 int
+INFO  19:56:54,728 - #5 a
+INFO  19:56:54,728 - #4 )
+INFO  19:56:54,728 - #5 int
+INFO  19:56:54,728 - #5 x
+INFO  19:56:54,728 - #18 ;
+INFO  19:56:54,728 - #16 {
+INFO  19:56:54,728 - #5 x
+INFO  19:56:54,729 - #10 =
+INFO  19:56:54,729 - #5 arg
+INFO  19:56:54,729 - #18 ;
+INFO  19:56:54,730 - #17 }
+INFO  19:56:54,730 - #20 void
+INFO  19:56:54,731 - #5 main
+INFO  19:56:54,731 - #3 (
+INFO  19:56:54,731 - #4 )
+INFO  19:56:54,731 - #5 int
+INFO  19:56:54,731 - #5 x
+INFO  19:56:54,731 - #8 ,
+INFO  19:56:54,732 - #5 i
+INFO  19:56:54,732 - #18 ;
+INFO  19:56:54,732 - #5 char
+INFO  19:56:54,732 - #5 c
+INFO  19:56:54,732 - #18 ;
+INFO  19:56:54,732 - #16 {
+INFO  19:56:54,732 - #5 board
+INFO  19:56:54,732 - #10 =
+INFO  19:56:54,732 - #39 new
+INFO  19:56:54,732 - #5 Board
+INFO  19:56:54,733 - #18 ;
+INFO  19:56:54,733 - #5 board
+INFO  19:56:54,733 - #40 .
+INFO  19:56:54,733 - #5 rows
+INFO  19:56:54,733 - #10 =
+INFO  19:56:54,733 - #39 new
+INFO  19:56:54,733 - #5 int
+INFO  19:56:54,734 - #12 [
+INFO  19:56:54,734 - #11 5
+INFO  19:56:54,734 - #13 ]
+INFO  19:56:54,734 - #18 ;
+INFO  19:56:54,734 - #5 board
+INFO  19:56:54,734 - #40 .
+INFO  19:56:54,734 - #5 size
+INFO  19:56:54,734 - #10 =
+INFO  19:56:54,734 - #18 ;
+ERROR 19:56:54,734 - 
+Sintaksna greska na liniji 25
+INFO  19:56:54,734 - #47 if
+INFO  19:56:54,734 - #3 (
+INFO  19:56:54,735 - #5 board
+ERROR 19:56:54,735 - Izvrsen oporavak do ; u liniji 25
+INFO  19:56:54,735 - #40 .
+INFO  19:56:54,736 - #5 rows
+INFO  19:56:54,736 - #12 [
+INFO  19:56:54,736 - #11 0
+INFO  19:56:54,736 - #13 ]
+INFO  19:56:54,736 - #46 !=
+INFO  19:56:54,737 - #4 )
+ERROR 19:56:54,737 - 
+Sintaksna greska na liniji 26
+INFO  19:56:54,737 - #16 {
+INFO  19:56:54,737 - #28 print
+INFO  19:56:54,737 - #3 (
+ERROR 19:56:54,737 - Izvrsen oporavak do ) u liniji 26
+INFO  19:56:54,737 - #11 1
+INFO  19:56:54,737 - #4 )
+INFO  19:56:54,738 - #18 ;
+INFO  19:56:54,738 - #17 }
+INFO  19:56:54,738 - #17 }
+INFO  19:56:54,738 - #17 }
+INFO  19:56:54,754 - Obradjuje se rekord Board na liniji 5
+INFO  19:56:54,754 - Deklarisana globalna promenljiva board na liniji 11
+INFO  19:56:54,755 - Deklarisan rekord board na liniji 11
+INFO  19:56:54,755 - Obradjuje se funkcija f na liniji 15
+INFO  19:56:54,755 - Deklarisana lokalna promenljiva x na liniji 16
+INFO  19:56:54,755 - Obradjuje se funkcija main na liniji 20
+INFO  19:56:54,755 - Deklarisana lokalna promenljiva x na liniji 20
+INFO  19:56:54,755 - Deklarisana lokalna promenljiva i na liniji 20
+INFO  19:56:54,755 - Deklarisana lokalna promenljiva c na liniji 20

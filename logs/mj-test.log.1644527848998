@@ -1,0 +1,59 @@
+INFO  22:14:10,385 - Compiling source file: D:\ETF\sedmiSemestar\PP1\Jflex\Izvorni kod\MJCompiler\test\program.mj
+INFO  22:14:10,415 - #2 program
+INFO  22:14:10,415 - #5 p
+INFO  22:14:10,415 - #16 {
+INFO  22:14:10,416 - #20 void
+INFO  22:14:10,416 - #5 main
+INFO  22:14:10,416 - #3 (
+INFO  22:14:10,417 - #4 )
+INFO  22:14:10,417 - #16 {
+INFO  22:14:10,418 - #28 print
+INFO  22:14:10,418 - #3 (
+INFO  22:14:10,418 - #11 1
+INFO  22:14:10,418 - #4 )
+INFO  22:14:10,419 - #18 ;
+INFO  22:14:10,419 - #17 }
+INFO  22:14:10,419 - #17 }
+INFO  22:14:10,423 - Program(
+  ProgName(
+   p
+  ) [ProgName]
+  NoDeclaraions(
+  ) [NoDeclaraions]
+  Methods(
+    NoMethod(
+    ) [NoMethod]
+    VoidMethod(
+      VoidTypeName(
+       main
+      ) [VoidTypeName]
+      NoFormalPar(
+      ) [NoFormalPar]
+      NoVar(
+      ) [NoVar]
+      MoreStatements(
+        NoStatement(
+        ) [NoStatement]
+        NoLabelStmt(
+          PrintStmt(
+            PositiveExpr(
+              OneTerm(
+                OneFactor(
+                  NumConstFactor(
+                   1
+                  ) [NumConstFactor]
+                ) [OneFactor]
+              ) [OneTerm]
+            ) [PositiveExpr]
+          ) [PrintStmt]
+        ) [NoLabelStmt]
+      ) [MoreStatements]
+    ) [VoidMethod]
+  ) [Methods]
+) [Program]
+INFO  22:14:10,424 - ===================================
+INFO  22:14:10,427 - Obradjuje se funkcija main na liniji 7
+INFO  22:14:10,427 -  Print count calls = 0
+INFO  22:14:10,427 -  Deklarisanih promenljivih ima = 0
+INFO  22:14:10,427 - ===================================
+INFO  22:14:10,437 - Parsiranje uspesno zavrseno!

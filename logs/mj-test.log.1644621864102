@@ -1,0 +1,168 @@
+INFO  00:22:46,348 - Compiling source file: D:\ETF\sedmiSemestar\PP1\Jflex\Izvorni kod\MJCompiler\test\program.mj
+INFO  00:22:46,379 - #2 program
+INFO  00:22:46,379 - #5 MJProgram
+INFO  00:22:46,379 - #5 int
+INFO  00:22:46,380 - #5 x
+INFO  00:22:46,380 - #18 ;
+INFO  00:22:46,381 - #5 int
+INFO  00:22:46,381 - #5 y
+INFO  00:22:46,381 - #18 ;
+INFO  00:22:46,381 - #14 class
+INFO  00:22:46,381 - #5 Test
+INFO  00:22:46,381 - #16 {
+INFO  00:22:46,382 - #5 int
+INFO  00:22:46,382 - #5 b
+INFO  00:22:46,382 - #18 ;
+INFO  00:22:46,382 - #5 int
+INFO  00:22:46,382 - #5 a
+INFO  00:22:46,382 - #18 ;
+INFO  00:22:46,383 - #17 }
+INFO  00:22:46,383 - #5 Test
+INFO  00:22:46,383 - #5 t1
+INFO  00:22:46,383 - #18 ;
+INFO  00:22:46,383 - #16 {
+INFO  00:22:46,384 - #20 void
+INFO  00:22:46,384 - #5 main
+INFO  00:22:46,384 - #3 (
+INFO  00:22:46,384 - #4 )
+INFO  00:22:46,385 - #16 {
+INFO  00:22:46,385 - #5 t1
+INFO  00:22:46,385 - #10 =
+INFO  00:22:46,385 - #39 new
+INFO  00:22:46,386 - #5 Test
+INFO  00:22:46,386 - #18 ;
+INFO  00:22:46,386 - #17 }
+INFO  00:22:46,387 - #17 }
+INFO  00:22:46,392 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  VarDeclarationss(
+    ClassDeclarations(
+      VarDeclarationss(
+        VarDeclarationss(
+          NoDeclaraions(
+          ) [NoDeclaraions]
+          Variables(
+            VarDeclType(
+              Type(
+               int
+              ) [Type]
+            ) [VarDeclType]
+            OneVariable(
+              Var(
+               x
+              ) [Var]
+            ) [OneVariable]
+          ) [Variables]
+        ) [VarDeclarationss]
+        Variables(
+          VarDeclType(
+            Type(
+             int
+            ) [Type]
+          ) [VarDeclType]
+          OneVariable(
+            Var(
+             y
+            ) [Var]
+          ) [OneVariable]
+        ) [Variables]
+      ) [VarDeclarationss]
+      ClassDeclaration(
+        ClassDeclarationName(
+         Test
+        ) [ClassDeclarationName]
+        Vars(
+          Vars(
+            NoVar(
+            ) [NoVar]
+            Variables(
+              VarDeclType(
+                Type(
+                 int
+                ) [Type]
+              ) [VarDeclType]
+              OneVariable(
+                Var(
+                 b
+                ) [Var]
+              ) [OneVariable]
+            ) [Variables]
+          ) [Vars]
+          Variables(
+            VarDeclType(
+              Type(
+               int
+              ) [Type]
+            ) [VarDeclType]
+            OneVariable(
+              Var(
+               a
+              ) [Var]
+            ) [OneVariable]
+          ) [Variables]
+        ) [Vars]
+      ) [ClassDeclaration]
+    ) [ClassDeclarations]
+    Variables(
+      VarDeclType(
+        Type(
+         Test
+        ) [Type]
+      ) [VarDeclType]
+      OneVariable(
+        Var(
+         t1
+        ) [Var]
+      ) [OneVariable]
+    ) [Variables]
+  ) [VarDeclarationss]
+  Methods(
+    NoMethod(
+    ) [NoMethod]
+    VoidMethod(
+      VoidTypeName(
+       main
+      ) [VoidTypeName]
+      NoFormalPar(
+      ) [NoFormalPar]
+      NoVar(
+      ) [NoVar]
+      MoreStatements(
+        NoStatement(
+        ) [NoStatement]
+        NoLabelStmt(
+          DesignatorStmt(
+            DesignatorAssign(
+              OneIdent(
+               t1
+              ) [OneIdent]
+              AssValue(
+              ) [AssValue]
+              PositiveExpr(
+                OneTerm(
+                  OneFactor(
+                    NewFactor(
+                      Type(
+                       Test
+                      ) [Type]
+                    ) [NewFactor]
+                  ) [OneFactor]
+                ) [OneTerm]
+              ) [PositiveExpr]
+            ) [DesignatorAssign]
+          ) [DesignatorStmt]
+        ) [NoLabelStmt]
+      ) [MoreStatements]
+    ) [VoidMethod]
+  ) [Methods]
+) [Program]
+INFO  00:22:46,392 - ===================================
+INFO  00:22:46,395 - Obradjuje se klasa Test na liniji 3
+INFO  00:22:46,396 - Obradjuje se funkcija main na liniji 13
+INFO  00:22:46,396 -  Print count calls = 0
+INFO  00:22:46,396 -  Deklarisanih promenljivih ima = 5
+INFO  00:22:46,396 - ===================================
+INFO  00:22:46,407 - Parsiranj : 3
+INFO  00:22:46,407 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,76 @@
+INFO  11:51:01,616 - Compiling source file: D:\ETF\sedmiSemestar\PP1\Jflex\Izvorni kod\MJCompiler\test\test301.mj
+INFO  11:51:01,752 - #2 program
+INFO  11:51:01,753 - #5 test302
+INFO  11:51:01,753 - #16 {
+INFO  11:51:01,757 - #20 void
+INFO  11:51:01,758 - #5 main
+INFO  11:51:01,758 - #3 (
+INFO  11:51:01,760 - #4 )
+INFO  11:51:01,761 - #5 int
+INFO  11:51:01,763 - #5 x
+INFO  11:51:01,765 - #18 ;
+INFO  11:51:01,766 - #16 {
+INFO  11:51:01,767 - #27 read
+INFO  11:51:01,768 - #3 (
+INFO  11:51:01,769 - #5 x
+INFO  11:51:01,769 - #4 )
+INFO  11:51:01,770 - #28 print
+ERROR 11:51:01,770 - 
+Sintaksna greska na liniji 15
+INFO  11:51:01,771 - #3 (
+INFO  11:51:01,771 - #5 x
+INFO  11:51:01,771 - #4 )
+INFO  11:51:01,773 - #18 ;
+INFO  11:51:01,774 - #17 }
+INFO  11:51:01,774 - #17 }
+ERROR 11:51:01,775 - Izvrsen oporavak do ; u liniji 14
+INFO  11:51:01,798 - Program(
+  ProgName(
+   test302
+  ) [ProgName]
+  NoDeclaraions(
+  ) [NoDeclaraions]
+  Methods(
+    NoMethod(
+    ) [NoMethod]
+    VoidMethod(
+      VoidTypeName(
+       main
+      ) [VoidTypeName]
+      NoFormalPar(
+      ) [NoFormalPar]
+      Vars(
+        NoVar(
+        ) [NoVar]
+        Variables(
+          VarDeclType(
+            Type(
+             int
+            ) [Type]
+          ) [VarDeclType]
+          OneVariable(
+            Var(
+             x
+            ) [Var]
+          ) [OneVariable]
+        ) [Variables]
+      ) [Vars]
+      MoreStatements(
+        NoStatement(
+        ) [NoStatement]
+        NoLabelStmt(
+          ErrorAssOpStmt(
+          ) [ErrorAssOpStmt]
+        ) [NoLabelStmt]
+      ) [MoreStatements]
+    ) [VoidMethod]
+  ) [Methods]
+) [Program]
+INFO  11:51:01,798 - ===================================
+INFO  11:51:01,811 - Obradjuje se funkcija main na liniji 12
+INFO  11:51:01,811 -  Broj pristupa elementu niza = 0
+INFO  11:51:01,811 -  Deklarisanih globalnih promenljivih ima = 0
+INFO  11:51:01,811 -  Deklarisanih lokalnih promenljivih ima = 1
+INFO  11:51:01,814 -  Broj rekorda je = 0
+INFO  11:51:01,814 - ===================================
+ERROR 11:51:01,815 - Parsiranje NIJE uspesno zavrseno!

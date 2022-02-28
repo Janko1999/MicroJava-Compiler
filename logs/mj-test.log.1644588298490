@@ -1,0 +1,114 @@
+INFO  15:04:46,900 - Compiling source file: D:\ETF\sedmiSemestar\PP1\Jflex\Izvorni kod\MJCompiler\test\program.mj
+INFO  15:04:46,932 - #2 program
+INFO  15:04:46,932 - #5 MJProgram
+INFO  15:04:46,933 - #14 class
+INFO  15:04:47,026 - #5 Test
+INFO  15:04:47,027 - #16 {
+INFO  15:04:47,029 - #17 }
+INFO  15:04:47,031 - #5 int
+INFO  15:04:47,032 - #5 niz
+INFO  15:04:47,035 - #12 [
+INFO  15:04:47,035 - #13 ]
+INFO  15:04:47,035 - #18 ;
+INFO  15:04:47,036 - #16 {
+INFO  15:04:47,037 - #20 void
+INFO  15:04:47,038 - #5 main
+INFO  15:04:47,038 - #3 (
+INFO  15:04:47,039 - #4 )
+INFO  15:04:47,040 - #16 {
+INFO  15:04:47,040 - #5 t1
+INFO  15:04:47,041 - #10 =
+INFO  15:04:47,041 - #39 new
+INFO  15:04:47,043 - #5 int
+INFO  15:04:47,044 - #12 [
+INFO  15:04:47,044 - #11 5
+INFO  15:04:47,044 - #13 ]
+INFO  15:04:47,045 - #18 ;
+INFO  15:04:47,045 - #17 }
+INFO  15:04:47,046 - #17 }
+INFO  15:04:47,054 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  VarDeclarationss(
+    ClassDeclarations(
+      NoDeclaraions(
+      ) [NoDeclaraions]
+      ClassDeclaration(
+        ClassDeclarationName(
+         Test
+        ) [ClassDeclarationName]
+        NoVar(
+        ) [NoVar]
+      ) [ClassDeclaration]
+    ) [ClassDeclarations]
+    Variables(
+      VarDeclType(
+        Type(
+         int
+        ) [Type]
+      ) [VarDeclType]
+      OneVariable(
+        Array(
+         niz
+        ) [Array]
+      ) [OneVariable]
+    ) [Variables]
+  ) [VarDeclarationss]
+  Methods(
+    NoMethod(
+    ) [NoMethod]
+    VoidMethod(
+      VoidTypeName(
+       main
+      ) [VoidTypeName]
+      NoFormalPar(
+      ) [NoFormalPar]
+      NoVar(
+      ) [NoVar]
+      MoreStatements(
+        NoStatement(
+        ) [NoStatement]
+        NoLabelStmt(
+          DesignatorStmt(
+            DesignatorAssign(
+              OneIdent(
+               t1
+              ) [OneIdent]
+              AssValue(
+              ) [AssValue]
+              PositiveExpr(
+                OneTerm(
+                  OneFactor(
+                    NewFactorExpr(
+                      Type(
+                       int
+                      ) [Type]
+                      PositiveExpr(
+                        OneTerm(
+                          OneFactor(
+                            NumConstFactor(
+                             5
+                            ) [NumConstFactor]
+                          ) [OneFactor]
+                        ) [OneTerm]
+                      ) [PositiveExpr]
+                    ) [NewFactorExpr]
+                  ) [OneFactor]
+                ) [OneTerm]
+              ) [PositiveExpr]
+            ) [DesignatorAssign]
+          ) [DesignatorStmt]
+        ) [NoLabelStmt]
+      ) [MoreStatements]
+    ) [VoidMethod]
+  ) [Methods]
+) [Program]
+INFO  15:04:47,054 - ===================================
+INFO  15:04:47,058 - Obradjuje se klasa Test na liniji 3
+INFO  15:04:47,058 - Obradjuje se funkcija main na liniji 11
+ERROR 15:04:47,058 - Greska na liniji 12 : ime t1 nije deklarisano! 
+INFO  15:04:47,059 -  Print count calls = 0
+INFO  15:04:47,059 -  Deklarisanih promenljivih ima = 1
+INFO  15:04:47,059 - ===================================
+ERROR 15:04:47,059 - Parsiranje NIJE uspesno zavrseno!

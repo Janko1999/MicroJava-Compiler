@@ -1,0 +1,140 @@
+INFO  17:44:17,936 - Compiling source file: D:\ETF\sedmiSemestar\PP1\Jflex\Izvorni kod\MJCompiler\test\program.mj
+INFO  17:44:17,970 - #2 program
+INFO  17:44:17,971 - #5 MJProgram
+INFO  17:44:17,971 - #14 class
+INFO  17:44:17,971 - #5 Test
+INFO  17:44:17,972 - #16 {
+INFO  17:44:17,972 - #17 }
+INFO  17:44:17,972 - #5 int
+INFO  17:44:17,973 - #5 niz
+INFO  17:44:17,973 - #12 [
+INFO  17:44:17,974 - #13 ]
+INFO  17:44:17,974 - #18 ;
+INFO  17:44:17,974 - #5 int
+INFO  17:44:17,974 - #5 x
+INFO  17:44:17,974 - #18 ;
+INFO  17:44:17,975 - #16 {
+INFO  17:44:17,975 - #20 void
+INFO  17:44:17,975 - #5 main
+INFO  17:44:17,975 - #3 (
+INFO  17:44:17,975 - #4 )
+INFO  17:44:17,976 - #16 {
+INFO  17:44:17,976 - #5 x
+INFO  17:44:17,976 - #10 =
+INFO  17:44:17,979 - #11 5
+INFO  17:44:17,980 - #18 ;
+INFO  17:44:17,980 - #28 print
+INFO  17:44:17,981 - #3 (
+INFO  17:44:17,981 - #5 x
+INFO  17:44:17,981 - #4 )
+INFO  17:44:17,981 - #18 ;
+INFO  17:44:17,981 - #17 }
+INFO  17:44:17,981 - #17 }
+INFO  17:44:17,988 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  VarDeclarationss(
+    VarDeclarationss(
+      ClassDeclarations(
+        NoDeclaraions(
+        ) [NoDeclaraions]
+        ClassDeclaration(
+          ClassDeclarationName(
+           Test
+          ) [ClassDeclarationName]
+          NoVar(
+          ) [NoVar]
+        ) [ClassDeclaration]
+      ) [ClassDeclarations]
+      Variables(
+        VarDeclType(
+          Type(
+           int
+          ) [Type]
+        ) [VarDeclType]
+        OneVariable(
+          Array(
+           niz
+          ) [Array]
+        ) [OneVariable]
+      ) [Variables]
+    ) [VarDeclarationss]
+    Variables(
+      VarDeclType(
+        Type(
+         int
+        ) [Type]
+      ) [VarDeclType]
+      OneVariable(
+        Var(
+         x
+        ) [Var]
+      ) [OneVariable]
+    ) [Variables]
+  ) [VarDeclarationss]
+  Methods(
+    NoMethod(
+    ) [NoMethod]
+    VoidMethod(
+      VoidTypeName(
+       main
+      ) [VoidTypeName]
+      NoFormalPar(
+      ) [NoFormalPar]
+      NoVar(
+      ) [NoVar]
+      MoreStatements(
+        MoreStatements(
+          NoStatement(
+          ) [NoStatement]
+          NoLabelStmt(
+            DesignatorStmt(
+              DesignatorAssign(
+                OneIdent(
+                 x
+                ) [OneIdent]
+                AssValue(
+                ) [AssValue]
+                PositiveExpr(
+                  OneTerm(
+                    OneFactor(
+                      NumConstFactor(
+                       5
+                      ) [NumConstFactor]
+                    ) [OneFactor]
+                  ) [OneTerm]
+                ) [PositiveExpr]
+              ) [DesignatorAssign]
+            ) [DesignatorStmt]
+          ) [NoLabelStmt]
+        ) [MoreStatements]
+        NoLabelStmt(
+          PrintStmt(
+            PositiveExpr(
+              OneTerm(
+                OneFactor(
+                  DesignatorFactor(
+                    OneIdent(
+                     x
+                    ) [OneIdent]
+                  ) [DesignatorFactor]
+                ) [OneFactor]
+              ) [OneTerm]
+            ) [PositiveExpr]
+          ) [PrintStmt]
+        ) [NoLabelStmt]
+      ) [MoreStatements]
+    ) [VoidMethod]
+  ) [Methods]
+) [Program]
+INFO  17:44:17,989 - ===================================
+INFO  17:44:17,992 - Obradjuje se klasa Test na liniji 3
+INFO  17:44:17,992 - Obradjuje se funkcija main na liniji 12
+INFO  17:44:17,992 -  Print count calls = 0
+INFO  17:44:17,992 -  Deklarisanih promenljivih ima = 2
+INFO  17:44:17,992 - ===================================
+INFO  17:44:17,995 - Nije
+INFO  17:44:18,006 - Opet Nesto
+INFO  17:44:18,006 - Parsiranj : 2
+INFO  17:44:18,007 - Parsiranje uspesno zavrseno!

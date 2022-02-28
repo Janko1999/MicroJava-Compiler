@@ -1,0 +1,79 @@
+INFO  20:01:21,702 - Compiling source file: D:\ETF\sedmiSemestar\PP1\Jflex\Izvorni kod\MJCompiler\test\test301.mj
+INFO  20:01:21,739 - #2 program
+INFO  20:01:21,739 - #5 test302
+INFO  20:01:21,739 - #16 {
+INFO  20:01:21,740 - #20 void
+INFO  20:01:21,740 - #5 main
+INFO  20:01:21,740 - #3 (
+INFO  20:01:21,741 - #4 )
+INFO  20:01:21,741 - #16 {
+INFO  20:01:21,742 - #28 print
+INFO  20:01:21,742 - #3 (
+INFO  20:01:21,743 - #5 ord
+INFO  20:01:21,743 - #3 (
+INFO  20:01:21,743 - #6 A
+INFO  20:01:21,743 - #4 )
+INFO  20:01:21,744 - #4 )
+INFO  20:01:21,744 - #18 ;
+INFO  20:01:21,744 - #17 }
+INFO  20:01:21,745 - #17 }
+INFO  20:01:21,752 - Program(
+  ProgName(
+   test302
+  ) [ProgName]
+  NoDeclaraions(
+  ) [NoDeclaraions]
+  Methods(
+    NoMethod(
+    ) [NoMethod]
+    VoidMethod(
+      VoidTypeName(
+       main
+      ) [VoidTypeName]
+      NoFormalPar(
+      ) [NoFormalPar]
+      NoVar(
+      ) [NoVar]
+      MoreStatements(
+        NoStatement(
+        ) [NoStatement]
+        NoLabelStmt(
+          PrintStmt(
+            PositiveExpr(
+              OneTerm(
+                OneFactor(
+                  DesignatorParsFactor(
+                    OneIdent(
+                     ord
+                    ) [OneIdent]
+                    OneActPars(
+                      PositiveExpr(
+                        OneTerm(
+                          OneFactor(
+                            CharConstFactor(
+                             A
+                            ) [CharConstFactor]
+                          ) [OneFactor]
+                        ) [OneTerm]
+                      ) [PositiveExpr]
+                    ) [OneActPars]
+                  ) [DesignatorParsFactor]
+                ) [OneFactor]
+              ) [OneTerm]
+            ) [PositiveExpr]
+          ) [PrintStmt]
+        ) [NoLabelStmt]
+      ) [MoreStatements]
+    ) [VoidMethod]
+  ) [Methods]
+) [Program]
+INFO  20:01:21,752 - ===================================
+INFO  20:01:21,756 - Obradjuje se funkcija main na liniji 12
+INFO  20:01:21,759 - Pronadjen poziv funkcije ord na liniji 14
+INFO  20:01:21,759 -  Print count calls = 0
+INFO  20:01:21,759 -  Deklarisanih promenljivih ima = 0
+INFO  20:01:21,759 - ===================================
+INFO  20:01:21,771 - FormPars: 0
+INFO  20:01:21,771 - Vars: 0
+INFO  20:01:21,772 - Parsiranj : 0
+INFO  20:01:21,772 - Parsiranje uspesno zavrseno!

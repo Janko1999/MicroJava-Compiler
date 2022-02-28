@@ -1,0 +1,145 @@
+INFO  23:48:40,138 - Compiling source file: D:\ETF\sedmiSemestar\PP1\Jflex\Izvorni kod\MJCompiler\test\program.mj
+INFO  23:48:40,174 - #2 program
+INFO  23:48:40,174 - #5 p
+INFO  23:48:40,174 - #5 int
+INFO  23:48:40,175 - #5 x
+INFO  23:48:40,176 - #18 ;
+INFO  23:48:40,176 - #16 {
+INFO  23:48:40,176 - #5 int
+INFO  23:48:40,176 - #5 main
+INFO  23:48:40,176 - #3 (
+INFO  23:48:40,177 - #4 )
+INFO  23:48:40,177 - #5 int
+INFO  23:48:40,178 - #5 z
+INFO  23:48:40,178 - #18 ;
+INFO  23:48:40,178 - #16 {
+INFO  23:48:40,178 - #5 x
+INFO  23:48:40,178 - #10 =
+INFO  23:48:40,178 - #11 1
+INFO  23:48:40,179 - #18 ;
+INFO  23:48:40,179 - #28 print
+INFO  23:48:40,180 - #3 (
+INFO  23:48:40,180 - #5 x
+INFO  23:48:40,180 - #4 )
+INFO  23:48:40,180 - #18 ;
+INFO  23:48:40,181 - #26 return
+INFO  23:48:40,181 - #11 1
+INFO  23:48:40,181 - #18 ;
+INFO  23:48:40,181 - #17 }
+INFO  23:48:40,181 - #17 }
+INFO  23:48:40,187 - Program(
+  ProgName(
+   p
+  ) [ProgName]
+  VarDeclarationss(
+    NoDeclaraions(
+    ) [NoDeclaraions]
+    Variables(
+      VarDeclType(
+        Type(
+         int
+        ) [Type]
+      ) [VarDeclType]
+      OneVariable(
+        Var(
+         x
+        ) [Var]
+      ) [OneVariable]
+    ) [Variables]
+  ) [VarDeclarationss]
+  Methods(
+    NoMethod(
+    ) [NoMethod]
+    RegularMethod(
+      MethodTypeName(
+        Type(
+         int
+        ) [Type]
+       main
+      ) [MethodTypeName]
+      NoFormalPar(
+      ) [NoFormalPar]
+      Vars(
+        NoVar(
+        ) [NoVar]
+        Variables(
+          VarDeclType(
+            Type(
+             int
+            ) [Type]
+          ) [VarDeclType]
+          OneVariable(
+            Var(
+             z
+            ) [Var]
+          ) [OneVariable]
+        ) [Variables]
+      ) [Vars]
+      MoreStatements(
+        MoreStatements(
+          MoreStatements(
+            NoStatement(
+            ) [NoStatement]
+            NoLabelStmt(
+              DesignatorStmt(
+                DesignatorAssign(
+                  OneIdent(
+                   x
+                  ) [OneIdent]
+                  AssValue(
+                  ) [AssValue]
+                  PositiveExpr(
+                    OneTerm(
+                      OneFactor(
+                        NumConstFactor(
+                         1
+                        ) [NumConstFactor]
+                      ) [OneFactor]
+                    ) [OneTerm]
+                  ) [PositiveExpr]
+                ) [DesignatorAssign]
+              ) [DesignatorStmt]
+            ) [NoLabelStmt]
+          ) [MoreStatements]
+          NoLabelStmt(
+            PrintStmt(
+              PositiveExpr(
+                OneTerm(
+                  OneFactor(
+                    DesignatorFactor(
+                      OneIdent(
+                       x
+                      ) [OneIdent]
+                    ) [DesignatorFactor]
+                  ) [OneFactor]
+                ) [OneTerm]
+              ) [PositiveExpr]
+            ) [PrintStmt]
+          ) [NoLabelStmt]
+        ) [MoreStatements]
+        NoLabelStmt(
+          ReturnExprStmt(
+            PositiveExpr(
+              OneTerm(
+                OneFactor(
+                  NumConstFactor(
+                   1
+                  ) [NumConstFactor]
+                ) [OneFactor]
+              ) [OneTerm]
+            ) [PositiveExpr]
+          ) [ReturnExprStmt]
+        ) [NoLabelStmt]
+      ) [MoreStatements]
+    ) [RegularMethod]
+  ) [Methods]
+) [Program]
+INFO  23:48:40,187 - ===================================
+INFO  23:48:40,191 - Obradjuje se funkcija main na liniji 7
+INFO  23:48:40,191 -  Print count calls = 0
+INFO  23:48:40,191 -  Deklarisanih promenljivih ima = 2
+INFO  23:48:40,191 - ===================================
+INFO  23:48:40,203 - FormPars: 0
+INFO  23:48:40,203 - Vars: 1
+INFO  23:48:40,203 - Parsiranj : 1
+INFO  23:48:40,203 - Parsiranje uspesno zavrseno!

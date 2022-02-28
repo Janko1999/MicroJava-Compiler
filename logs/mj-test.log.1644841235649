@@ -1,0 +1,90 @@
+INFO  13:19:51,485 - Compiling source file: D:\ETF\sedmiSemestar\PP1\Jflex\Izvorni kod\MJCompiler\test\test301.mj
+INFO  13:19:51,517 - #2 program
+INFO  13:19:51,518 - #5 test302
+INFO  13:19:51,518 - #16 {
+INFO  13:19:51,518 - #20 void
+INFO  13:19:51,519 - #5 main
+INFO  13:19:51,519 - #3 (
+INFO  13:19:51,519 - #4 )
+INFO  13:19:51,519 - #5 char
+INFO  13:19:51,520 - #5 x
+INFO  13:19:51,520 - #18 ;
+INFO  13:19:51,521 - #16 {
+INFO  13:19:51,521 - #27 read
+INFO  13:19:51,521 - #3 (
+INFO  13:19:51,521 - #5 x
+INFO  13:19:51,522 - #4 )
+INFO  13:19:51,522 - #18 ;
+INFO  13:19:51,522 - #28 print
+INFO  13:19:51,522 - #3 (
+INFO  13:19:51,522 - #5 x
+INFO  13:19:51,522 - #4 )
+INFO  13:19:51,523 - #18 ;
+INFO  13:19:51,523 - #17 }
+INFO  13:19:51,525 - #17 }
+INFO  13:19:51,529 - Program(
+  ProgName(
+   test302
+  ) [ProgName]
+  NoDeclaraions(
+  ) [NoDeclaraions]
+  Methods(
+    NoMethod(
+    ) [NoMethod]
+    VoidMethod(
+      VoidTypeName(
+       main
+      ) [VoidTypeName]
+      NoFormalPar(
+      ) [NoFormalPar]
+      Vars(
+        NoVar(
+        ) [NoVar]
+        Variables(
+          VarDeclType(
+            Type(
+             char
+            ) [Type]
+          ) [VarDeclType]
+          OneVariable(
+            Var(
+             x
+            ) [Var]
+          ) [OneVariable]
+        ) [Variables]
+      ) [Vars]
+      MoreStatements(
+        MoreStatements(
+          NoStatement(
+          ) [NoStatement]
+          NoLabelStmt(
+            ReadStmt(
+              OneIdent(
+               x
+              ) [OneIdent]
+            ) [ReadStmt]
+          ) [NoLabelStmt]
+        ) [MoreStatements]
+        NoLabelStmt(
+          PrintStmt(
+            PositiveExpr(
+              OneTerm(
+                OneFactor(
+                  DesignatorFactor(
+                    OneIdent(
+                     x
+                    ) [OneIdent]
+                  ) [DesignatorFactor]
+                ) [OneFactor]
+              ) [OneTerm]
+            ) [PositiveExpr]
+          ) [PrintStmt]
+        ) [NoLabelStmt]
+      ) [MoreStatements]
+    ) [VoidMethod]
+  ) [Methods]
+) [Program]
+INFO  13:19:51,529 - ===================================
+INFO  13:19:51,532 - Obradjuje se funkcija main na liniji 12
+INFO  13:19:51,533 - ===================================
+INFO  13:19:51,544 - Parsiranje uspesno zavrseno!

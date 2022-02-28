@@ -1,0 +1,302 @@
+INFO  00:06:48,381 - Compiling source file: D:\ETF\sedmiSemestar\PP1\Jflex\Izvorni kod\MJCompiler\test\program.mj
+INFO  00:06:48,415 - #2 program
+INFO  00:06:48,416 - #5 test301
+INFO  00:06:48,416 - #7 const
+INFO  00:06:48,417 - #5 int
+INFO  00:06:48,417 - #5 nula
+INFO  00:06:48,418 - #10 =
+INFO  00:06:48,418 - #11 0
+INFO  00:06:48,418 - #18 ;
+INFO  00:06:48,418 - #7 const
+INFO  00:06:48,418 - #5 int
+INFO  00:06:48,419 - #5 jedan
+INFO  00:06:48,419 - #10 =
+INFO  00:06:48,419 - #11 1
+INFO  00:06:48,419 - #18 ;
+INFO  00:06:48,419 - #7 const
+INFO  00:06:48,419 - #5 int
+INFO  00:06:48,419 - #5 pet
+INFO  00:06:48,419 - #10 =
+INFO  00:06:48,419 - #11 5
+INFO  00:06:48,419 - #18 ;
+INFO  00:06:48,419 - #5 int
+INFO  00:06:48,421 - #5 niz
+INFO  00:06:48,422 - #12 [
+INFO  00:06:48,422 - #13 ]
+INFO  00:06:48,422 - #18 ;
+INFO  00:06:48,422 - #5 char
+INFO  00:06:48,422 - #5 nizch
+INFO  00:06:48,423 - #12 [
+INFO  00:06:48,423 - #13 ]
+INFO  00:06:48,423 - #18 ;
+INFO  00:06:48,423 - #14 class
+INFO  00:06:48,423 - #5 Test
+INFO  00:06:48,423 - #16 {
+INFO  00:06:48,423 - #5 int
+INFO  00:06:48,424 - #5 x
+INFO  00:06:48,424 - #18 ;
+INFO  00:06:48,424 - #17 }
+INFO  00:06:48,424 - #5 Test
+INFO  00:06:48,424 - #5 test1
+INFO  00:06:48,424 - #18 ;
+INFO  00:06:48,424 - #16 {
+INFO  00:06:48,424 - #5 int
+INFO  00:06:48,425 - #5 main
+INFO  00:06:48,425 - #3 (
+INFO  00:06:48,425 - #4 )
+INFO  00:06:48,426 - #5 int
+INFO  00:06:48,426 - #5 bodovi
+INFO  00:06:48,426 - #18 ;
+INFO  00:06:48,426 - #5 bool
+INFO  00:06:48,426 - #5 bt
+INFO  00:06:48,426 - #18 ;
+INFO  00:06:48,426 - #16 {
+INFO  00:06:48,426 - #5 test1
+INFO  00:06:48,427 - #10 =
+INFO  00:06:48,427 - #39 new
+INFO  00:06:48,428 - #5 Test
+INFO  00:06:48,428 - #18 ;
+INFO  00:06:48,428 - #5 test1
+INFO  00:06:48,429 - #40 .
+INFO  00:06:48,429 - #5 x
+INFO  00:06:48,429 - #10 =
+INFO  00:06:48,429 - #11 7
+INFO  00:06:48,429 - #18 ;
+INFO  00:06:48,429 - #26 return
+INFO  00:06:48,429 - #11 1
+INFO  00:06:48,429 - #18 ;
+INFO  00:06:48,429 - #17 }
+INFO  00:06:48,429 - #17 }
+INFO  00:06:48,440 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  VarDeclarationss(
+    ClassDeclarations(
+      VarDeclarationss(
+        VarDeclarationss(
+          ConstDeclarations(
+            ConstDeclarations(
+              ConstDeclarations(
+                NoDeclaraions(
+                ) [NoDeclaraions]
+                Constants(
+                  ConstType(
+                    Type(
+                     int
+                    ) [Type]
+                  ) [ConstType]
+                  NoConst(
+                    NumConstant(
+                     nula
+                     0
+                    ) [NumConstant]
+                  ) [NoConst]
+                ) [Constants]
+              ) [ConstDeclarations]
+              Constants(
+                ConstType(
+                  Type(
+                   int
+                  ) [Type]
+                ) [ConstType]
+                NoConst(
+                  NumConstant(
+                   jedan
+                   1
+                  ) [NumConstant]
+                ) [NoConst]
+              ) [Constants]
+            ) [ConstDeclarations]
+            Constants(
+              ConstType(
+                Type(
+                 int
+                ) [Type]
+              ) [ConstType]
+              NoConst(
+                NumConstant(
+                 pet
+                 5
+                ) [NumConstant]
+              ) [NoConst]
+            ) [Constants]
+          ) [ConstDeclarations]
+          Variables(
+            VarDeclType(
+              Type(
+               int
+              ) [Type]
+            ) [VarDeclType]
+            OneVariable(
+              Array(
+               niz
+              ) [Array]
+            ) [OneVariable]
+          ) [Variables]
+        ) [VarDeclarationss]
+        Variables(
+          VarDeclType(
+            Type(
+             char
+            ) [Type]
+          ) [VarDeclType]
+          OneVariable(
+            Array(
+             nizch
+            ) [Array]
+          ) [OneVariable]
+        ) [Variables]
+      ) [VarDeclarationss]
+      ClassDeclaration(
+        ClassDeclarationName(
+         Test
+        ) [ClassDeclarationName]
+        Vars(
+          NoVar(
+          ) [NoVar]
+          Variables(
+            VarDeclType(
+              Type(
+               int
+              ) [Type]
+            ) [VarDeclType]
+            OneVariable(
+              Var(
+               x
+              ) [Var]
+            ) [OneVariable]
+          ) [Variables]
+        ) [Vars]
+      ) [ClassDeclaration]
+    ) [ClassDeclarations]
+    Variables(
+      VarDeclType(
+        Type(
+         Test
+        ) [Type]
+      ) [VarDeclType]
+      OneVariable(
+        Var(
+         test1
+        ) [Var]
+      ) [OneVariable]
+    ) [Variables]
+  ) [VarDeclarationss]
+  Methods(
+    NoMethod(
+    ) [NoMethod]
+    RegularMethod(
+      MethodTypeName(
+        Type(
+         int
+        ) [Type]
+       main
+      ) [MethodTypeName]
+      NoFormalPar(
+      ) [NoFormalPar]
+      Vars(
+        Vars(
+          NoVar(
+          ) [NoVar]
+          Variables(
+            VarDeclType(
+              Type(
+               int
+              ) [Type]
+            ) [VarDeclType]
+            OneVariable(
+              Var(
+               bodovi
+              ) [Var]
+            ) [OneVariable]
+          ) [Variables]
+        ) [Vars]
+        Variables(
+          VarDeclType(
+            Type(
+             bool
+            ) [Type]
+          ) [VarDeclType]
+          OneVariable(
+            Var(
+             bt
+            ) [Var]
+          ) [OneVariable]
+        ) [Variables]
+      ) [Vars]
+      MoreStatements(
+        MoreStatements(
+          MoreStatements(
+            NoStatement(
+            ) [NoStatement]
+            NoLabelStmt(
+              DesignatorStmt(
+                DesignatorAssign(
+                  OneIdent(
+                   test1
+                  ) [OneIdent]
+                  AssValue(
+                  ) [AssValue]
+                  PositiveExpr(
+                    OneTerm(
+                      OneFactor(
+                        NewFactor(
+                          Type(
+                           Test
+                          ) [Type]
+                        ) [NewFactor]
+                      ) [OneFactor]
+                    ) [OneTerm]
+                  ) [PositiveExpr]
+                ) [DesignatorAssign]
+              ) [DesignatorStmt]
+            ) [NoLabelStmt]
+          ) [MoreStatements]
+          NoLabelStmt(
+            DesignatorStmt(
+              DesignatorAssign(
+                Field(
+                 test1
+                 x
+                ) [Field]
+                AssValue(
+                ) [AssValue]
+                PositiveExpr(
+                  OneTerm(
+                    OneFactor(
+                      NumConstFactor(
+                       7
+                      ) [NumConstFactor]
+                    ) [OneFactor]
+                  ) [OneTerm]
+                ) [PositiveExpr]
+              ) [DesignatorAssign]
+            ) [DesignatorStmt]
+          ) [NoLabelStmt]
+        ) [MoreStatements]
+        NoLabelStmt(
+          ReturnExprStmt(
+            PositiveExpr(
+              OneTerm(
+                OneFactor(
+                  NumConstFactor(
+                   1
+                  ) [NumConstFactor]
+                ) [OneFactor]
+              ) [OneTerm]
+            ) [PositiveExpr]
+          ) [ReturnExprStmt]
+        ) [NoLabelStmt]
+      ) [MoreStatements]
+    ) [RegularMethod]
+  ) [Methods]
+) [Program]
+INFO  00:06:48,440 - ===================================
+INFO  00:06:48,444 - Obradjuje se klasa Test na liniji 11
+INFO  00:06:48,444 - Obradjuje se funkcija main na liniji 16
+ERROR 00:06:48,444 - Greska na liniji 21 : Klasa test1 ne sadrzi null
+INFO  00:06:48,444 -  Print count calls = 0
+INFO  00:06:48,444 -  Deklarisanih promenljivih ima = 6
+INFO  00:06:48,444 - ===================================
+ERROR 00:06:48,445 - Parsiranje NIJE uspesno zavrseno!

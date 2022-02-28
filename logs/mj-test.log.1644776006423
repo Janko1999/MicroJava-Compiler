@@ -1,0 +1,428 @@
+INFO  18:49:08,917 - Compiling source file: D:\ETF\sedmiSemestar\PP1\Jflex\Izvorni kod\MJCompiler\test\program.mj
+INFO  18:49:08,949 - #2 program
+INFO  18:49:08,949 - #5 MJProgram
+INFO  18:49:08,949 - #5 int
+INFO  18:49:08,950 - #5 x
+INFO  18:49:08,951 - #18 ;
+INFO  18:49:08,951 - #5 int
+INFO  18:49:08,951 - #5 y
+INFO  18:49:08,951 - #18 ;
+INFO  18:49:08,951 - #14 class
+INFO  18:49:08,951 - #5 Test
+INFO  18:49:08,951 - #16 {
+INFO  18:49:08,952 - #5 int
+INFO  18:49:08,952 - #5 b
+INFO  18:49:08,952 - #12 [
+INFO  18:49:08,952 - #13 ]
+INFO  18:49:08,952 - #18 ;
+INFO  18:49:08,953 - #5 int
+INFO  18:49:08,953 - #5 a
+INFO  18:49:08,953 - #18 ;
+INFO  18:49:08,953 - #17 }
+INFO  18:49:08,953 - #5 Test
+INFO  18:49:08,953 - #5 t1
+INFO  18:49:08,954 - #18 ;
+INFO  18:49:08,954 - #5 bool
+INFO  18:49:08,954 - #5 flag
+INFO  18:49:08,954 - #18 ;
+INFO  18:49:08,954 - #5 int
+INFO  18:49:08,954 - #5 niz
+INFO  18:49:08,954 - #12 [
+INFO  18:49:08,954 - #13 ]
+INFO  18:49:08,954 - #18 ;
+INFO  18:49:08,954 - #16 {
+INFO  18:49:08,954 - #5 bool
+INFO  18:49:08,955 - #5 verify
+INFO  18:49:08,955 - #3 (
+INFO  18:49:08,955 - #4 )
+INFO  18:49:08,956 - #16 {
+INFO  18:49:08,956 - #28 print
+INFO  18:49:08,956 - #3 (
+INFO  18:49:08,956 - #6 v
+INFO  18:49:08,956 - #4 )
+INFO  18:49:08,957 - #18 ;
+INFO  18:49:08,957 - #26 return
+INFO  18:49:08,957 - #9 false
+INFO  18:49:08,957 - #18 ;
+INFO  18:49:08,957 - #17 }
+INFO  18:49:08,957 - #20 void
+INFO  18:49:08,958 - #5 main
+INFO  18:49:08,958 - #3 (
+INFO  18:49:08,958 - #4 )
+INFO  18:49:08,958 - #5 int
+INFO  18:49:08,958 - #5 x
+INFO  18:49:08,958 - #18 ;
+INFO  18:49:08,958 - #5 int
+INFO  18:49:08,959 - #5 y
+INFO  18:49:08,959 - #18 ;
+INFO  18:49:08,959 - #16 {
+INFO  18:49:08,959 - #5 t1
+INFO  18:49:08,959 - #10 =
+INFO  18:49:08,959 - #39 new
+INFO  18:49:08,959 - #5 Test
+INFO  18:49:08,959 - #18 ;
+INFO  18:49:08,960 - #5 t1
+INFO  18:49:08,960 - #40 .
+INFO  18:49:08,960 - #5 a
+INFO  18:49:08,960 - #10 =
+INFO  18:49:08,960 - #11 8
+INFO  18:49:08,960 - #18 ;
+INFO  18:49:08,961 - #47 if
+INFO  18:49:08,961 - #3 (
+INFO  18:49:08,961 - #5 verify
+INFO  18:49:08,961 - #3 (
+INFO  18:49:08,961 - #4 )
+INFO  18:49:08,961 - #4 )
+INFO  18:49:08,962 - #28 print
+INFO  18:49:08,962 - #3 (
+INFO  18:49:08,962 - #34 -
+INFO  18:49:08,962 - #5 t1
+INFO  18:49:08,962 - #40 .
+INFO  18:49:08,962 - #5 a
+INFO  18:49:08,963 - #4 )
+INFO  18:49:08,963 - #18 ;
+INFO  18:49:08,963 - #48 else
+INFO  18:49:08,963 - #28 print
+INFO  18:49:08,963 - #3 (
+INFO  18:49:08,963 - #5 t1
+INFO  18:49:08,964 - #40 .
+INFO  18:49:08,964 - #5 a
+INFO  18:49:08,964 - #4 )
+INFO  18:49:08,964 - #18 ;
+INFO  18:49:08,964 - #17 }
+INFO  18:49:08,964 - #17 }
+INFO  18:49:08,969 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  VarDeclarationss(
+    VarDeclarationss(
+      VarDeclarationss(
+        ClassDeclarations(
+          VarDeclarationss(
+            VarDeclarationss(
+              NoDeclaraions(
+              ) [NoDeclaraions]
+              Variables(
+                VarDeclType(
+                  Type(
+                   int
+                  ) [Type]
+                ) [VarDeclType]
+                OneVariable(
+                  Var(
+                   x
+                  ) [Var]
+                ) [OneVariable]
+              ) [Variables]
+            ) [VarDeclarationss]
+            Variables(
+              VarDeclType(
+                Type(
+                 int
+                ) [Type]
+              ) [VarDeclType]
+              OneVariable(
+                Var(
+                 y
+                ) [Var]
+              ) [OneVariable]
+            ) [Variables]
+          ) [VarDeclarationss]
+          ClassDeclaration(
+            ClassDeclarationName(
+             Test
+            ) [ClassDeclarationName]
+            Vars(
+              Vars(
+                NoVar(
+                ) [NoVar]
+                Variables(
+                  VarDeclType(
+                    Type(
+                     int
+                    ) [Type]
+                  ) [VarDeclType]
+                  OneVariable(
+                    Array(
+                     b
+                    ) [Array]
+                  ) [OneVariable]
+                ) [Variables]
+              ) [Vars]
+              Variables(
+                VarDeclType(
+                  Type(
+                   int
+                  ) [Type]
+                ) [VarDeclType]
+                OneVariable(
+                  Var(
+                   a
+                  ) [Var]
+                ) [OneVariable]
+              ) [Variables]
+            ) [Vars]
+          ) [ClassDeclaration]
+        ) [ClassDeclarations]
+        Variables(
+          VarDeclType(
+            Type(
+             Test
+            ) [Type]
+          ) [VarDeclType]
+          OneVariable(
+            Var(
+             t1
+            ) [Var]
+          ) [OneVariable]
+        ) [Variables]
+      ) [VarDeclarationss]
+      Variables(
+        VarDeclType(
+          Type(
+           bool
+          ) [Type]
+        ) [VarDeclType]
+        OneVariable(
+          Var(
+           flag
+          ) [Var]
+        ) [OneVariable]
+      ) [Variables]
+    ) [VarDeclarationss]
+    Variables(
+      VarDeclType(
+        Type(
+         int
+        ) [Type]
+      ) [VarDeclType]
+      OneVariable(
+        Array(
+         niz
+        ) [Array]
+      ) [OneVariable]
+    ) [Variables]
+  ) [VarDeclarationss]
+  Methods(
+    Methods(
+      NoMethod(
+      ) [NoMethod]
+      RegularMethod(
+        MethodTypeName(
+          Type(
+           bool
+          ) [Type]
+         verify
+        ) [MethodTypeName]
+        NoFormalPar(
+        ) [NoFormalPar]
+        NoVar(
+        ) [NoVar]
+        MoreStatements(
+          MoreStatements(
+            NoStatement(
+            ) [NoStatement]
+            NoLabelStmt(
+              PrintStmt(
+                PositiveExpr(
+                  OneTerm(
+                    OneFactor(
+                      CharConstFactor(
+                       v
+                      ) [CharConstFactor]
+                    ) [OneFactor]
+                  ) [OneTerm]
+                ) [PositiveExpr]
+              ) [PrintStmt]
+            ) [NoLabelStmt]
+          ) [MoreStatements]
+          NoLabelStmt(
+            ReturnExprStmt(
+              PositiveExpr(
+                OneTerm(
+                  OneFactor(
+                    BoolConstFactor(
+                     false
+                    ) [BoolConstFactor]
+                  ) [OneFactor]
+                ) [OneTerm]
+              ) [PositiveExpr]
+            ) [ReturnExprStmt]
+          ) [NoLabelStmt]
+        ) [MoreStatements]
+      ) [RegularMethod]
+    ) [Methods]
+    VoidMethod(
+      VoidTypeName(
+       main
+      ) [VoidTypeName]
+      NoFormalPar(
+      ) [NoFormalPar]
+      Vars(
+        Vars(
+          NoVar(
+          ) [NoVar]
+          Variables(
+            VarDeclType(
+              Type(
+               int
+              ) [Type]
+            ) [VarDeclType]
+            OneVariable(
+              Var(
+               x
+              ) [Var]
+            ) [OneVariable]
+          ) [Variables]
+        ) [Vars]
+        Variables(
+          VarDeclType(
+            Type(
+             int
+            ) [Type]
+          ) [VarDeclType]
+          OneVariable(
+            Var(
+             y
+            ) [Var]
+          ) [OneVariable]
+        ) [Variables]
+      ) [Vars]
+      MoreStatements(
+        MoreStatements(
+          MoreStatements(
+            NoStatement(
+            ) [NoStatement]
+            NoLabelStmt(
+              DesignatorStmt(
+                DesignatorAssign(
+                  OneIdent(
+                   t1
+                  ) [OneIdent]
+                  AssValue(
+                  ) [AssValue]
+                  PositiveExpr(
+                    OneTerm(
+                      OneFactor(
+                        NewFactor(
+                          Type(
+                           Test
+                          ) [Type]
+                        ) [NewFactor]
+                      ) [OneFactor]
+                    ) [OneTerm]
+                  ) [PositiveExpr]
+                ) [DesignatorAssign]
+              ) [DesignatorStmt]
+            ) [NoLabelStmt]
+          ) [MoreStatements]
+          NoLabelStmt(
+            DesignatorStmt(
+              DesignatorAssign(
+                Field(
+                  FieldName(
+                   t1
+                  ) [FieldName]
+                 a
+                ) [Field]
+                AssValue(
+                ) [AssValue]
+                PositiveExpr(
+                  OneTerm(
+                    OneFactor(
+                      NumConstFactor(
+                       8
+                      ) [NumConstFactor]
+                    ) [OneFactor]
+                  ) [OneTerm]
+                ) [PositiveExpr]
+              ) [DesignatorAssign]
+            ) [DesignatorStmt]
+          ) [NoLabelStmt]
+        ) [MoreStatements]
+        NoLabelStmt(
+          IfStatement(
+            IfCondition_Cond(
+              IfDummy(
+              ) [IfDummy]
+              IfCondParen_Cond(
+                OneOrCondition(
+                  OneAndTerm(
+                    ExprCond(
+                      PositiveExpr(
+                        OneTerm(
+                          OneFactor(
+                            DesignatorNoParsFactor(
+                              OneIdent(
+                               verify
+                              ) [OneIdent]
+                            ) [DesignatorNoParsFactor]
+                          ) [OneFactor]
+                        ) [OneTerm]
+                      ) [PositiveExpr]
+                    ) [ExprCond]
+                  ) [OneAndTerm]
+                ) [OneOrCondition]
+              ) [IfCondParen_Cond]
+            ) [IfCondition_Cond]
+            NoLabelStmt(
+              PrintStmt(
+                NegativeExpr(
+                  OneTerm(
+                    OneFactor(
+                      DesignatorFactor(
+                        Field(
+                          FieldName(
+                           t1
+                          ) [FieldName]
+                         a
+                        ) [Field]
+                      ) [DesignatorFactor]
+                    ) [OneFactor]
+                  ) [OneTerm]
+                ) [NegativeExpr]
+              ) [PrintStmt]
+            ) [NoLabelStmt]
+            OptElseBranch_NoEps(
+              ElseDummy(
+              ) [ElseDummy]
+              NoLabelStmt(
+                PrintStmt(
+                  PositiveExpr(
+                    OneTerm(
+                      OneFactor(
+                        DesignatorFactor(
+                          Field(
+                            FieldName(
+                             t1
+                            ) [FieldName]
+                           a
+                          ) [Field]
+                        ) [DesignatorFactor]
+                      ) [OneFactor]
+                    ) [OneTerm]
+                  ) [PositiveExpr]
+                ) [PrintStmt]
+              ) [NoLabelStmt]
+            ) [OptElseBranch_NoEps]
+          ) [IfStatement]
+        ) [NoLabelStmt]
+      ) [MoreStatements]
+    ) [VoidMethod]
+  ) [Methods]
+) [Program]
+INFO  18:49:08,970 - ===================================
+INFO  18:49:08,973 - Obradjuje se klasa Test na liniji 3
+INFO  18:49:08,974 - Obradjuje se funkcija verify na liniji 12
+INFO  18:49:08,974 - Obradjuje se funkcija main na liniji 18
+INFO  18:49:08,974 - Pronadjen poziv funkcije verify na liniji 23
+INFO  18:49:08,974 -  Print count calls = 0
+INFO  18:49:08,974 -  Deklarisanih promenljivih ima = 9
+INFO  18:49:08,974 - ===================================
+INFO  18:49:08,986 - FormPars: 0
+INFO  18:49:08,987 - Vars: 0
+INFO  18:49:08,987 - desFactora
+INFO  18:49:08,987 - desFactora
+INFO  18:49:08,987 - Parsiranj : 5
+INFO  18:49:08,988 - Parsiranje uspesno zavrseno!

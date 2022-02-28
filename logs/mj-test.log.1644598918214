@@ -1,0 +1,397 @@
+INFO  17:58:12,946 - Compiling source file: D:\ETF\sedmiSemestar\PP1\Jflex\Izvorni kod\MJCompiler\test\program.mj
+INFO  17:58:12,981 - #2 program
+INFO  17:58:12,981 - #5 MJProgram
+INFO  17:58:12,981 - #14 class
+INFO  17:58:12,982 - #5 Test
+INFO  17:58:12,982 - #16 {
+INFO  17:58:12,982 - #17 }
+INFO  17:58:12,983 - #5 int
+INFO  17:58:12,983 - #5 niz
+INFO  17:58:12,984 - #12 [
+INFO  17:58:12,984 - #13 ]
+INFO  17:58:12,984 - #18 ;
+INFO  17:58:12,984 - #5 int
+INFO  17:58:12,984 - #5 x
+INFO  17:58:12,984 - #18 ;
+INFO  17:58:12,985 - #16 {
+INFO  17:58:12,985 - #5 int
+INFO  17:58:12,985 - #5 main
+INFO  17:58:12,985 - #3 (
+INFO  17:58:12,986 - #4 )
+INFO  17:58:12,986 - #16 {
+INFO  17:58:12,986 - #5 niz
+INFO  17:58:12,986 - #10 =
+INFO  17:58:12,987 - #39 new
+INFO  17:58:12,988 - #5 int
+INFO  17:58:12,988 - #12 [
+INFO  17:58:12,988 - #11 5
+INFO  17:58:12,988 - #13 ]
+INFO  17:58:12,988 - #18 ;
+INFO  17:58:12,989 - #5 niz
+INFO  17:58:12,989 - #12 [
+INFO  17:58:12,989 - #11 4
+INFO  17:58:12,989 - #13 ]
+INFO  17:58:12,989 - #10 =
+INFO  17:58:12,989 - #11 5
+INFO  17:58:12,990 - #18 ;
+INFO  17:58:12,990 - #28 print
+INFO  17:58:12,990 - #3 (
+INFO  17:58:12,990 - #5 niz
+INFO  17:58:12,990 - #12 [
+INFO  17:58:12,990 - #11 4
+INFO  17:58:12,990 - #13 ]
+INFO  17:58:12,990 - #4 )
+INFO  17:58:12,990 - #18 ;
+INFO  17:58:12,990 - #5 niz
+INFO  17:58:12,990 - #12 [
+INFO  17:58:12,990 - #11 3
+INFO  17:58:12,990 - #13 ]
+INFO  17:58:12,990 - #10 =
+INFO  17:58:12,991 - #5 niz
+INFO  17:58:12,991 - #12 [
+INFO  17:58:12,991 - #11 4
+INFO  17:58:12,991 - #13 ]
+INFO  17:58:12,991 - #35 +
+INFO  17:58:12,991 - #11 7
+INFO  17:58:12,991 - #18 ;
+INFO  17:58:12,992 - #28 print
+INFO  17:58:12,992 - #3 (
+INFO  17:58:12,992 - #5 niz
+INFO  17:58:12,992 - #12 [
+INFO  17:58:12,992 - #11 3
+INFO  17:58:12,992 - #13 ]
+INFO  17:58:12,992 - #4 )
+INFO  17:58:12,992 - #18 ;
+INFO  17:58:12,992 - #27 read
+INFO  17:58:12,992 - #3 (
+INFO  17:58:12,992 - #5 niz
+INFO  17:58:12,992 - #12 [
+INFO  17:58:12,992 - #11 2
+INFO  17:58:12,996 - #13 ]
+INFO  17:58:12,996 - #4 )
+INFO  17:58:12,996 - #18 ;
+INFO  17:58:12,996 - #28 print
+INFO  17:58:12,996 - #3 (
+INFO  17:58:12,996 - #5 niz
+INFO  17:58:12,996 - #12 [
+INFO  17:58:12,996 - #11 2
+INFO  17:58:12,996 - #13 ]
+INFO  17:58:12,996 - #4 )
+INFO  17:58:12,996 - #18 ;
+INFO  17:58:12,996 - #26 return
+INFO  17:58:12,996 - #11 1
+INFO  17:58:12,996 - #18 ;
+INFO  17:58:12,997 - #17 }
+INFO  17:58:12,997 - #17 }
+INFO  17:58:13,004 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  VarDeclarationss(
+    VarDeclarationss(
+      ClassDeclarations(
+        NoDeclaraions(
+        ) [NoDeclaraions]
+        ClassDeclaration(
+          ClassDeclarationName(
+           Test
+          ) [ClassDeclarationName]
+          NoVar(
+          ) [NoVar]
+        ) [ClassDeclaration]
+      ) [ClassDeclarations]
+      Variables(
+        VarDeclType(
+          Type(
+           int
+          ) [Type]
+        ) [VarDeclType]
+        OneVariable(
+          Array(
+           niz
+          ) [Array]
+        ) [OneVariable]
+      ) [Variables]
+    ) [VarDeclarationss]
+    Variables(
+      VarDeclType(
+        Type(
+         int
+        ) [Type]
+      ) [VarDeclType]
+      OneVariable(
+        Var(
+         x
+        ) [Var]
+      ) [OneVariable]
+    ) [Variables]
+  ) [VarDeclarationss]
+  Methods(
+    NoMethod(
+    ) [NoMethod]
+    RegularMethod(
+      MethodTypeName(
+        Type(
+         int
+        ) [Type]
+       main
+      ) [MethodTypeName]
+      NoFormalPar(
+      ) [NoFormalPar]
+      NoVar(
+      ) [NoVar]
+      MoreStatements(
+        MoreStatements(
+          MoreStatements(
+            MoreStatements(
+              MoreStatements(
+                MoreStatements(
+                  MoreStatements(
+                    MoreStatements(
+                      NoStatement(
+                      ) [NoStatement]
+                      NoLabelStmt(
+                        DesignatorStmt(
+                          DesignatorAssign(
+                            OneIdent(
+                             niz
+                            ) [OneIdent]
+                            AssValue(
+                            ) [AssValue]
+                            PositiveExpr(
+                              OneTerm(
+                                OneFactor(
+                                  NewFactorExpr(
+                                    Type(
+                                     int
+                                    ) [Type]
+                                    PositiveExpr(
+                                      OneTerm(
+                                        OneFactor(
+                                          NumConstFactor(
+                                           5
+                                          ) [NumConstFactor]
+                                        ) [OneFactor]
+                                      ) [OneTerm]
+                                    ) [PositiveExpr]
+                                  ) [NewFactorExpr]
+                                ) [OneFactor]
+                              ) [OneTerm]
+                            ) [PositiveExpr]
+                          ) [DesignatorAssign]
+                        ) [DesignatorStmt]
+                      ) [NoLabelStmt]
+                    ) [MoreStatements]
+                    NoLabelStmt(
+                      DesignatorStmt(
+                        DesignatorAssign(
+                          SimpleArray(
+                            LeftBracket(
+                             niz
+                            ) [LeftBracket]
+                            PositiveExpr(
+                              OneTerm(
+                                OneFactor(
+                                  NumConstFactor(
+                                   4
+                                  ) [NumConstFactor]
+                                ) [OneFactor]
+                              ) [OneTerm]
+                            ) [PositiveExpr]
+                          ) [SimpleArray]
+                          AssValue(
+                          ) [AssValue]
+                          PositiveExpr(
+                            OneTerm(
+                              OneFactor(
+                                NumConstFactor(
+                                 5
+                                ) [NumConstFactor]
+                              ) [OneFactor]
+                            ) [OneTerm]
+                          ) [PositiveExpr]
+                        ) [DesignatorAssign]
+                      ) [DesignatorStmt]
+                    ) [NoLabelStmt]
+                  ) [MoreStatements]
+                  NoLabelStmt(
+                    PrintStmt(
+                      PositiveExpr(
+                        OneTerm(
+                          OneFactor(
+                            DesignatorFactor(
+                              SimpleArray(
+                                LeftBracket(
+                                 niz
+                                ) [LeftBracket]
+                                PositiveExpr(
+                                  OneTerm(
+                                    OneFactor(
+                                      NumConstFactor(
+                                       4
+                                      ) [NumConstFactor]
+                                    ) [OneFactor]
+                                  ) [OneTerm]
+                                ) [PositiveExpr]
+                              ) [SimpleArray]
+                            ) [DesignatorFactor]
+                          ) [OneFactor]
+                        ) [OneTerm]
+                      ) [PositiveExpr]
+                    ) [PrintStmt]
+                  ) [NoLabelStmt]
+                ) [MoreStatements]
+                NoLabelStmt(
+                  DesignatorStmt(
+                    DesignatorAssign(
+                      SimpleArray(
+                        LeftBracket(
+                         niz
+                        ) [LeftBracket]
+                        PositiveExpr(
+                          OneTerm(
+                            OneFactor(
+                              NumConstFactor(
+                               3
+                              ) [NumConstFactor]
+                            ) [OneFactor]
+                          ) [OneTerm]
+                        ) [PositiveExpr]
+                      ) [SimpleArray]
+                      AssValue(
+                      ) [AssValue]
+                      PositiveExpr(
+                        Terms(
+                          OneTerm(
+                            OneFactor(
+                              DesignatorFactor(
+                                SimpleArray(
+                                  LeftBracket(
+                                   niz
+                                  ) [LeftBracket]
+                                  PositiveExpr(
+                                    OneTerm(
+                                      OneFactor(
+                                        NumConstFactor(
+                                         4
+                                        ) [NumConstFactor]
+                                      ) [OneFactor]
+                                    ) [OneTerm]
+                                  ) [PositiveExpr]
+                                ) [SimpleArray]
+                              ) [DesignatorFactor]
+                            ) [OneFactor]
+                          ) [OneTerm]
+                          PlusOp(
+                          ) [PlusOp]
+                          OneFactor(
+                            NumConstFactor(
+                             7
+                            ) [NumConstFactor]
+                          ) [OneFactor]
+                        ) [Terms]
+                      ) [PositiveExpr]
+                    ) [DesignatorAssign]
+                  ) [DesignatorStmt]
+                ) [NoLabelStmt]
+              ) [MoreStatements]
+              NoLabelStmt(
+                PrintStmt(
+                  PositiveExpr(
+                    OneTerm(
+                      OneFactor(
+                        DesignatorFactor(
+                          SimpleArray(
+                            LeftBracket(
+                             niz
+                            ) [LeftBracket]
+                            PositiveExpr(
+                              OneTerm(
+                                OneFactor(
+                                  NumConstFactor(
+                                   3
+                                  ) [NumConstFactor]
+                                ) [OneFactor]
+                              ) [OneTerm]
+                            ) [PositiveExpr]
+                          ) [SimpleArray]
+                        ) [DesignatorFactor]
+                      ) [OneFactor]
+                    ) [OneTerm]
+                  ) [PositiveExpr]
+                ) [PrintStmt]
+              ) [NoLabelStmt]
+            ) [MoreStatements]
+            NoLabelStmt(
+              ReadStmt(
+                SimpleArray(
+                  LeftBracket(
+                   niz
+                  ) [LeftBracket]
+                  PositiveExpr(
+                    OneTerm(
+                      OneFactor(
+                        NumConstFactor(
+                         2
+                        ) [NumConstFactor]
+                      ) [OneFactor]
+                    ) [OneTerm]
+                  ) [PositiveExpr]
+                ) [SimpleArray]
+              ) [ReadStmt]
+            ) [NoLabelStmt]
+          ) [MoreStatements]
+          NoLabelStmt(
+            PrintStmt(
+              PositiveExpr(
+                OneTerm(
+                  OneFactor(
+                    DesignatorFactor(
+                      SimpleArray(
+                        LeftBracket(
+                         niz
+                        ) [LeftBracket]
+                        PositiveExpr(
+                          OneTerm(
+                            OneFactor(
+                              NumConstFactor(
+                               2
+                              ) [NumConstFactor]
+                            ) [OneFactor]
+                          ) [OneTerm]
+                        ) [PositiveExpr]
+                      ) [SimpleArray]
+                    ) [DesignatorFactor]
+                  ) [OneFactor]
+                ) [OneTerm]
+              ) [PositiveExpr]
+            ) [PrintStmt]
+          ) [NoLabelStmt]
+        ) [MoreStatements]
+        NoLabelStmt(
+          ReturnExprStmt(
+            PositiveExpr(
+              OneTerm(
+                OneFactor(
+                  NumConstFactor(
+                   1
+                  ) [NumConstFactor]
+                ) [OneFactor]
+              ) [OneTerm]
+            ) [PositiveExpr]
+          ) [ReturnExprStmt]
+        ) [NoLabelStmt]
+      ) [MoreStatements]
+    ) [RegularMethod]
+  ) [Methods]
+) [Program]
+INFO  17:58:13,005 - ===================================
+INFO  17:58:13,008 - Obradjuje se klasa Test na liniji 3
+INFO  17:58:13,008 - Obradjuje se funkcija main na liniji 12
+INFO  17:58:13,009 -  Print count calls = 0
+INFO  17:58:13,009 -  Deklarisanih promenljivih ima = 2
+INFO  17:58:13,009 - ===================================
+INFO  17:58:13,020 - FormPars: 0
+INFO  17:58:13,020 - Vars: 0
+INFO  17:58:13,020 - Parsiranj : 2
+INFO  17:58:13,020 - Parsiranje uspesno zavrseno!

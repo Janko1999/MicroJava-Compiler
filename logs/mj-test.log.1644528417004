@@ -1,0 +1,104 @@
+INFO  22:23:29,683 - Compiling source file: D:\ETF\sedmiSemestar\PP1\Jflex\Izvorni kod\MJCompiler\test\program.mj
+INFO  22:23:29,716 - #2 program
+INFO  22:23:29,717 - #5 p
+INFO  22:23:29,717 - #16 {
+INFO  22:23:29,718 - #20 void
+INFO  22:23:29,718 - #5 main
+INFO  22:23:29,718 - #3 (
+INFO  22:23:29,718 - #4 )
+INFO  22:23:29,719 - #5 int
+INFO  22:23:29,719 - #5 x
+INFO  22:23:29,720 - #18 ;
+INFO  22:23:29,720 - #16 {
+INFO  22:23:29,720 - #5 x
+INFO  22:23:29,721 - #10 =
+INFO  22:23:29,721 - #11 1
+INFO  22:23:29,722 - #18 ;
+INFO  22:23:29,722 - #28 print
+INFO  22:23:29,722 - #3 (
+INFO  22:23:29,723 - #5 x
+INFO  22:23:29,723 - #4 )
+INFO  22:23:29,723 - #18 ;
+INFO  22:23:29,723 - #17 }
+INFO  22:23:29,723 - #17 }
+INFO  22:23:29,729 - Program(
+  ProgName(
+   p
+  ) [ProgName]
+  NoDeclaraions(
+  ) [NoDeclaraions]
+  Methods(
+    NoMethod(
+    ) [NoMethod]
+    VoidMethod(
+      VoidTypeName(
+       main
+      ) [VoidTypeName]
+      NoFormalPar(
+      ) [NoFormalPar]
+      Vars(
+        NoVar(
+        ) [NoVar]
+        Variables(
+          VarDeclType(
+            Type(
+             int
+            ) [Type]
+          ) [VarDeclType]
+          OneVariable(
+            Var(
+             x
+            ) [Var]
+          ) [OneVariable]
+        ) [Variables]
+      ) [Vars]
+      MoreStatements(
+        MoreStatements(
+          NoStatement(
+          ) [NoStatement]
+          NoLabelStmt(
+            DesignatorStmt(
+              DesignatorAssign(
+                OneIdent(
+                 x
+                ) [OneIdent]
+                AssValue(
+                ) [AssValue]
+                PositiveExpr(
+                  OneTerm(
+                    OneFactor(
+                      NumConstFactor(
+                       1
+                      ) [NumConstFactor]
+                    ) [OneFactor]
+                  ) [OneTerm]
+                ) [PositiveExpr]
+              ) [DesignatorAssign]
+            ) [DesignatorStmt]
+          ) [NoLabelStmt]
+        ) [MoreStatements]
+        NoLabelStmt(
+          PrintStmt(
+            PositiveExpr(
+              OneTerm(
+                OneFactor(
+                  DesignatorFactor(
+                    OneIdent(
+                     x
+                    ) [OneIdent]
+                  ) [DesignatorFactor]
+                ) [OneFactor]
+              ) [OneTerm]
+            ) [PositiveExpr]
+          ) [PrintStmt]
+        ) [NoLabelStmt]
+      ) [MoreStatements]
+    ) [VoidMethod]
+  ) [Methods]
+) [Program]
+INFO  22:23:29,729 - ===================================
+INFO  22:23:29,733 - Obradjuje se funkcija main na liniji 7
+INFO  22:23:29,733 -  Print count calls = 0
+INFO  22:23:29,733 -  Deklarisanih promenljivih ima = 1
+INFO  22:23:29,733 - ===================================
+INFO  22:23:29,747 - Parsiranje uspesno zavrseno!
